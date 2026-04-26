@@ -25,7 +25,7 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 
 ## Deskripsi Kasus
 
-(isi deskripsi kamu di sini)
+(isi)
 
 ---
 
@@ -59,8 +59,10 @@ Ketika sensor error:
 
 ### 2. Whistleblowing
 
-(isi bagian kamu)
+(isi)
 
 ---
 
 ### 3. Tanggung Jawab Developer pada Sistem Safety-Critical
+
+(isi)
