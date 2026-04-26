@@ -23,24 +23,24 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 Pada kasus ini, terjadi benturan antara keputusan teknis (engineering) dengan kepentingan bisnis perusahaan.
 
 * **Secara engineering, sistem MCAS seharusnya**:
--> Menggunakan lebih dari satu sensor (redundansi) untuk validasi data.
--> Memiliki fail-safe mechanism (sistem aman jika terjadi error).
--> Memberikan informasi yang cukup ke pilot.
++ Menggunakan lebih dari satu sensor (redundansi) untuk validasi data.
++ Memiliki fail-safe mechanism (sistem aman jika terjadi error).
++ Memberikan informasi yang cukup ke pilot.
 
 * **Tekanan Bisnis**:
--> Boeing ingin cepat bersaing dengan Airbus (khususnya A320neo).
--> Desain diubah seminimal mungkin agar pilot tidak perlu pelatihan tambahan (menghemat biaya maskapai).
--> MCAS dibuat “diam-diam” bekerja di background tanpa penjelasan detail ke pilot.
++ Boeing ingin cepat bersaing dengan Airbus (khususnya A320neo).
++ Desain diubah seminimal mungkin agar pilot tidak perlu pelatihan tambahan (menghemat biaya maskapai).
++ MCAS dibuat “diam-diam” bekerja di background tanpa penjelasan detail ke pilot.
 
 * **Akibat**:
 Beberapa keputusan teknis yang bermasalah:
--> MCAS hanya bergantung pada 1 sensor (single point of failure)
--> Tidak ada validasi silang antar sensor
--> Informasi sistem tidak dijelaskan dengan jelas ke pilot
++ MCAS hanya bergantung pada 1 sensor (single point of failure)
++ Tidak ada validasi silang antar sensor
++ Informasi sistem tidak dijelaskan dengan jelas ke pilot
 Ketika sensor error:
--> Sistem membaca kondisi yang salah
--> MCAS otomatis menurunkan hidung pesawat
--> Pilot kesulitan mengendalikan situasi
++ Sistem membaca kondisi yang salah
++ MCAS otomatis menurunkan hidung pesawat
++ Pilot kesulitan mengendalikan situasi
 Di sini terlihat bahwa satu keputusan kecil dalam desain bisa berdampak sangat besar.
 
 ### 1. Whistleblowing
