@@ -21,14 +21,15 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 ## Fokus Analisis
 ### 1. Kompromi Engineering vs Tekanan Bisnis
 Pada kasus ini, terjadi benturan antara keputusan teknis (engineering) dengan kepentingan bisnis perusahaan.
-**Secara engineering, sistem MCAS seharusnya**:
-- Menggunakan lebih dari satu sensor (redundansi) untuk validasi data.
-- Memiliki fail-safe mechanism (sistem aman jika terjadi error).
-- Memberikan informasi yang cukup ke pilot.
+
+* **Secara engineering, sistem MCAS seharusnya**:
+Menggunakan lebih dari satu sensor (redundansi) untuk validasi data.
+Memiliki fail-safe mechanism (sistem aman jika terjadi error).
+Memberikan informasi yang cukup ke pilot.
 
 
-**Tekanan Bisnis**
-**Akibat**
+* **Tekanan Bisnis**
+* **Akibat**
 
 ### 1. Whistleblowing
 
