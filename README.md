@@ -1,9 +1,9 @@
 ### Kontributor 
 Bagian di File Word
 
-| Header | Header | Header |
+| Nama | Npm | Kontribusi |
 |--------|--------|--------|
-| Cell | Cell | Cell |
-| Cell | Cell | Cell |
-| Cell | Cell | Cell |
-| Cell | Cell | Cell | 
+| Ridwan Odi Nugroho 	 | 4524210089 | Cell |
+| Ririn Verdawati | Cell | Cell |
+| Nur Inayah Yusrizal	 | Cell | Cell |
+| Maria Natalia Alyssa Beli | Cell | Cell | 
