@@ -1,5 +1,9 @@
 ### Kontributor 
 Bagian di File Word
 
-|heading| |heading2| |heading3|
-|---------| |---------|  |---------|
+| Header | Header | Header |
+|--------|--------|--------|
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell | 
