@@ -3,7 +3,7 @@
 
 Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 
-## 📋 Informasi Akademik
+## Informasi Akademik
 * **Dosen Pengampu**: Adi Wahyu Pribadi, S.Si., M.Kom
 * **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Program Studi Teknik Informatika
 * **Tahun**: 2026
@@ -15,3 +15,12 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 | Ririn Verdawati | 4524210090 |
 | Nur Inayah Yusrizal | 4524210117 |
 | Maria Natalia Alyssa Beli | 4524210133 |
+
+## Deskripsi Kasus
+
+## Fokus Analisis
+### 1. Kompromi Engineering vs Tekanan Bisnis
+
+### 1. Whistleblowing
+
+### 3. Tanggung Jawab Developer
