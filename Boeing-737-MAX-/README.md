@@ -76,4 +76,5 @@ Berdasarkan kedua sumber tersebut, tanggung jawab developer dalam sistem safety-
 - Memberikan informasi yang jelas kepada pengguna (pilot)
 - Melakukan pengujian sistem secara menyeluruh
 - Menjaga etika profesional dalam pengambilan keputusan teknis
+
 Dengan demikian, dapat disimpulkan bahwa kegagalan dalam memenuhi tanggung jawab tersebut dapat menyebabkan sistem menjadi tidak aman dan berpotensi menimbulkan kecelakaan fatal.
