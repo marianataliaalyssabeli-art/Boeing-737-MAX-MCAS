@@ -1,5 +1,4 @@
 ### Kontributor 
-Bagian di File Word
 
 | Nama | Npm | Kontribusi |
 |--------|--------|--------|
