@@ -145,11 +145,7 @@ b. Dalam perspektif hukum:
    - Tanggung jawab hukum
    - Kerugian besar, baik secara material maupun korban jiwa
 
-<<<<<<< HEAD
-Kesimpulan:
-=======
 c. Kesimpulan:
->>>>>>> 623fa7f (update laporan)
 
 Kepatuhan terhadap regulasi dan standar keselamatan merupakan fondasi utama dalam pengembangan teknologi. Oleh karena itu, baik individu maupun organisasi harus memastikan bahwa setiap proses pengembangan sistem dilakukan secara bertanggung jawab, transparan, dan sesuai dengan ketentuan hukum yang berlaku, tanpa adanya kompromi yang dapat membahayakan keselamatan.
 
