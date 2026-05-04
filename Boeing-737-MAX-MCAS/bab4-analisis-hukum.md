@@ -1,4 +1,4 @@
-# IV ANALISIS HUKUM & REGULASI
+# IV. ANALISIS HUKUM & REGULASI
 **Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
 
 Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti Boeing 737 MAX (MCAS) dapat ditinjau berdasarkan peraturan perundang-undangan di Indonesia. Meskipun kasus terjadi di luar negeri, prinsip-prinsip hukumnya tetap relevan sebagai pembelajaran dalam pengembangan teknologi di Indonesia, khususnya pada sistem safety-critical.

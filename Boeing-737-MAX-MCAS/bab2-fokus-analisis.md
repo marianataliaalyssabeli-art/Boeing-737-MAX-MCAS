@@ -1,4 +1,4 @@
-# II FOKUS ANALISIS
+# II. FOKUS ANALISIS
 
 ### 1. Kompromi Engineering vs Tekanan Bisnis
 
