@@ -23,19 +23,7 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 
 ---
 
-## Daftar Isi
-
-- [Bab I - Deskripsi Kasus](bab1-deskripsi-kasus.md)
-- [Bab II - Fokus Analisis](bab2-fokus-analisis.md)
-- [Bab III - Analisis Etika](bab3-analisis-etika.md)
-- [Bab IV - Analisis Hukum](bab4-analisis-hukum.md)
-- [Bab V - Kesimpulan](bab5-kesimpulan.md)
-- [Daftar Pustaka](daftar-pustaka.md)
-
----
-
-# BAB I
-## Deskripsi Kasus
+# I DESKRIPSI KASUS
 
 Dua kecelakaan penerbangan besar yang melibatkan pesawat Boeing 737 MAX terjadi dalam kurun waktu kurang dari lima bulan, yaitu Lion Air Flight 610 pada 29 Oktober 2018 dan Ethiopian Airlines Flight 302 crash pada 10 Maret 2019. Kedua insiden ini menewaskan total 346 orang dan menimbulkan perhatian besar dari dunia internasional.
 
@@ -60,8 +48,7 @@ Beberapa menit setelah lepas landas, pilot melaporkan kesulitan mengendalikan pe
 
 ---
 
-# BAB II
-## Fokus Analisis
+# II FOKUS ANALISIS
 
 ### 1. Kompromi Engineering vs Tekanan Bisnis
 
@@ -132,8 +119,9 @@ Dengan demikian, dapat disimpulkan bahwa kegagalan dalam memenuhi tanggung jawab
 
 ---
 
-## BAB III
-## Analisis Etika, Moral, dan Etika Profesi
+# III ANALISIS ETIKA, MORAL, dan ETIKA PROFESI
+
+Berdasarkan fokus permasalahan yang telah dibahas pada BAB II, seperti adanya kompromi antara engineering dan kepentingan bisnis, lemahnya mekanisme whistleblowing, serta kurangnya tanggung jawab dalam pengembangan sistem safety-critical, maka diperlukan analisis lebih lanjut dari sudut pandang etika, moral, dan etika profesi untuk menilai apakah tindakan tersebut dapat dibenarkan atau tidak.
 
 Berdasarkan fokus permasalahan yang telah dibahas pada BAB II, seperti adanya kompromi antara engineering dan kepentingan bisnis, lemahnya mekanisme whistleblowing, serta kurangnya tanggung jawab dalam pengembangan sistem safety-critical, maka diperlukan analisis lebih lanjut dari sudut pandang etika, moral, dan etika profesi untuk menilai apakah tindakan tersebut dapat dibenarkan atau tidak.
 
@@ -207,8 +195,7 @@ Berdasarkan analisis etika, moral, dan etika profesi, dapat disimpulkan bahwa ke
 
 ---
 
-# BAB IV
-## Analisis Hukum
+# IV ANALISIS HUKUM & REGULASI
 **Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
 
 Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti Boeing 737 MAX (MCAS) dapat ditinjau berdasarkan peraturan perundang-undangan di Indonesia. Meskipun kasus terjadi di luar negeri, prinsip-prinsip hukumnya tetap relevan sebagai pembelajaran dalam pengembangan teknologi di Indonesia, khususnya pada sistem safety-critical.
@@ -334,30 +321,30 @@ Jika hal ini terjadi di Indonesia:
 
 **6. Analisis Konteks Sosial Indonesia**
 
-Dalam konteks masyarakat Indonesia yang disebutkan:
-- suka “ngakalin” peraturan
-- menghindari kewajiban (misalnya membayar atau izin)
-- menganggap pelanggaran sebagai hal biasa jika banyak yang melakukannya
+Dalam praktik penerapan hukum dan teknologi, sering ditemukan adanya tantangan dalam hal kepatuhan terhadap regulasi (regulatory compliance), baik pada individu maupun organisasi. Tantangan ini tidak selalu berkaitan dengan niat melanggar, tetapi bisa disebabkan oleh berbagai faktor seperti:
+- Kurangnya pemahaman terhadap aturan yang berlaku
+- Lemahnya pengawasan dan penegakan hukum
+- Tekanan efisiensi biaya dan waktu dalam pengembangan sistem
+- Budaya organisasi yang belum sepenuhnya mengutamakan keselamatan
 
-Fenomena ini dalam hukum dikenal sebagai:
-- Normalisasi pelanggaran
-- Budaya permisif terhadap aturan
+Dalam konteks pengembangan sistem teknologi, khususnya yang bersifat safety-critical, kepatuhan terhadap standar dan regulasi merupakan hal yang sangat penting. Setiap penyimpangan, sekecil apa pun, dapat berdampak besar terhadap keselamatan pengguna.
 
-Dampak dalam dunia teknologi:
-- Pengembang bisa:
-    - Mengabaikan standar keamanan
-    - Mengurangi kualitas demi efisiensi
-- Perusahaan bisa:
-    - Menghindari regulasi
-    - Tidak transparan
+a. Relevansi dengan kasus MCAS:
+- Adanya tekanan bisnis untuk mempercepat produksi
+- Pengambilan keputusan yang mengurangi standar teknis (misalnya tidak adanya redundansi sensor)
+- Kurangnya transparansi terhadap pengguna sistem
 
-Padahal dalam hukum, banyaknya pelanggaran tidak mengubah sesuatu menjadi benar justru memperbesar risiko kerugian massal dan memperberat konsekuensi hukum
+Hal-hal tersebut menunjukkan adanya kompromi terhadap standar keselamatan dan regulasi, yang seharusnya menjadi prioritas utama.
 
-Relevansi dengan kasus MCAS:
+b. Dalam perspektif hukum:
+- Kepatuhan terhadap regulasi bersifat wajib (mandatory), bukan opsional
+- Pelanggaran terhadap standar keselamatan dapat menimbulkan:
+   - Tanggung jawab hukum
+   - Kerugian besar, baik secara material maupun korban jiwa
 
-Sikap “yang penting jalan dulu” mirip dengan:
-- Tekanan bisnis Boeing
-- Pengabaian risiko teknis
+Kesimpulan:
+
+Kepatuhan terhadap regulasi dan standar keselamatan merupakan fondasi utama dalam pengembangan teknologi. Oleh karena itu, baik individu maupun organisasi harus memastikan bahwa setiap proses pengembangan sistem dilakukan secara bertanggung jawab, transparan, dan sesuai dengan ketentuan hukum yang berlaku, tanpa adanya kompromi yang dapat membahayakan keselamatan.
 
 ---
 
@@ -381,14 +368,13 @@ Berdasarkan analisis hukum tersebut, dapat disimpulkan bahwa kegagalan sistem se
 
 --- 
 
-# BAB V
-## Kesimpulan
+# V KESIMPULAN
 
 Secara keseluruhan, kasus Boeing 737 MAX merupakan contoh nyata kegagalan yang melibatkan aspek teknis, etika, organisasi, dan hukum dalam pengembangan sistem safety-critical. Kegagalan sistem MCAS (Maneuvering Characteristics Augmentation System) menunjukkan lemahnya desain engineering, khususnya dalam hal redundansi, validasi data, dan transparansi kepada pengguna, yang diperparah oleh tekanan bisnis dan kompetisi industri. Selain itu, lemahnya mekanisme whistleblowing serta budaya organisasi yang tidak mengutamakan keselamatan turut memperbesar risiko yang sebenarnya dapat dicegah. Dari sisi etika, baik berdasarkan prinsip Association for Computing Machinery maupun Institute of Electrical and Electronics Engineers, terjadi pelanggaran serius terkait prioritas keselamatan publik, kejujuran, dan tanggung jawab profesional. Ditinjau dari aspek hukum, kasus ini juga menunjukkan potensi pelanggaran terhadap prinsip keamanan sistem dan perlindungan konsumen. Oleh karena itu, pelajaran utama dari kasus ini adalah bahwa dalam pengembangan teknologi, khususnya sistem kritis, keselamatan manusia harus menjadi prioritas yang tidak boleh dianggap biasa oleh kepentingan bisnis, serta diperlukan integrasi kuat antara keunggulan teknis, etika profesi, dan tata kelola organisasi yang bertanggung jawab.
 
 ---
 
-# Daftar Pustaka
+# DAFTAR PUSTAKA
 
 [1] R. K. Nistanto and R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, Oct. 25, 2019. [Online]. Available: https://tekno.kompas.com/read/2019/10/25/15420657/knkt-terbitkan-laporan-lion-air-jt610-ungkap-penyebab-kecelakaan?page=all
 

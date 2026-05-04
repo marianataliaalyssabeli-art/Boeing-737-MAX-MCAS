@@ -1,5 +1,4 @@
-# BAB V
-## Analisis Hukum
+# IV ANALISIS HUKUM & REGULASI
 **Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
 
 Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti Boeing 737 MAX (MCAS) dapat ditinjau berdasarkan peraturan perundang-undangan di Indonesia. Meskipun kasus terjadi di luar negeri, prinsip-prinsip hukumnya tetap relevan sebagai pembelajaran dalam pengembangan teknologi di Indonesia, khususnya pada sistem safety-critical.
@@ -125,30 +124,30 @@ Jika hal ini terjadi di Indonesia:
 
 **6. Analisis Konteks Sosial Indonesia**
 
-Dalam konteks masyarakat Indonesia yang disebutkan:
-- suka “ngakalin” peraturan
-- menghindari kewajiban (misalnya membayar atau izin)
-- menganggap pelanggaran sebagai hal biasa jika banyak yang melakukannya
+Dalam praktik penerapan hukum dan teknologi, sering ditemukan adanya tantangan dalam hal kepatuhan terhadap regulasi (regulatory compliance), baik pada individu maupun organisasi. Tantangan ini tidak selalu berkaitan dengan niat melanggar, tetapi bisa disebabkan oleh berbagai faktor seperti:
+- Kurangnya pemahaman terhadap aturan yang berlaku
+- Lemahnya pengawasan dan penegakan hukum
+- Tekanan efisiensi biaya dan waktu dalam pengembangan sistem
+- Budaya organisasi yang belum sepenuhnya mengutamakan keselamatan
 
-Fenomena ini dalam hukum dikenal sebagai:
-- Normalisasi pelanggaran
-- Budaya permisif terhadap aturan
+Dalam konteks pengembangan sistem teknologi, khususnya yang bersifat safety-critical, kepatuhan terhadap standar dan regulasi merupakan hal yang sangat penting. Setiap penyimpangan, sekecil apa pun, dapat berdampak besar terhadap keselamatan pengguna.
 
-Dampak dalam dunia teknologi:
-- Pengembang bisa:
-    - Mengabaikan standar keamanan
-    - Mengurangi kualitas demi efisiensi
-- Perusahaan bisa:
-    - Menghindari regulasi
-    - Tidak transparan
+a. Relevansi dengan kasus MCAS:
+- Adanya tekanan bisnis untuk mempercepat produksi
+- Pengambilan keputusan yang mengurangi standar teknis (misalnya tidak adanya redundansi sensor)
+- Kurangnya transparansi terhadap pengguna sistem
 
-Padahal dalam hukum, banyaknya pelanggaran tidak mengubah sesuatu menjadi benar justru memperbesar risiko kerugian massal dan memperberat konsekuensi hukum
+Hal-hal tersebut menunjukkan adanya kompromi terhadap standar keselamatan dan regulasi, yang seharusnya menjadi prioritas utama.
 
-Relevansi dengan kasus MCAS:
+b. Dalam perspektif hukum:
+- Kepatuhan terhadap regulasi bersifat wajib (mandatory), bukan opsional
+- Pelanggaran terhadap standar keselamatan dapat menimbulkan:
+   - Tanggung jawab hukum
+   - Kerugian besar, baik secara material maupun korban jiwa
 
-Sikap “yang penting jalan dulu” mirip dengan:
-- Tekanan bisnis Boeing
-- Pengabaian risiko teknis
+Kesimpulan:
+
+Kepatuhan terhadap regulasi dan standar keselamatan merupakan fondasi utama dalam pengembangan teknologi. Oleh karena itu, baik individu maupun organisasi harus memastikan bahwa setiap proses pengembangan sistem dilakukan secara bertanggung jawab, transparan, dan sesuai dengan ketentuan hukum yang berlaku, tanpa adanya kompromi yang dapat membahayakan keselamatan.
 
 ---
 

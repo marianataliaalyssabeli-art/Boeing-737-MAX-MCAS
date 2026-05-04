@@ -1,5 +1,4 @@
-## BAB III
-## Analisis Etika, Moral, dan Etika Profesi
+# III ANALISIS ETIKA, MORAL, dan ETIKA PROFESI
 
 Berdasarkan fokus permasalahan yang telah dibahas pada BAB II, seperti adanya kompromi antara engineering dan kepentingan bisnis, lemahnya mekanisme whistleblowing, serta kurangnya tanggung jawab dalam pengembangan sistem safety-critical, maka diperlukan analisis lebih lanjut dari sudut pandang etika, moral, dan etika profesi untuk menilai apakah tindakan tersebut dapat dibenarkan atau tidak.
 
