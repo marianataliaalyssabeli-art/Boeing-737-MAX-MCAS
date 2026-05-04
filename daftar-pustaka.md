@@ -1,4 +1,5 @@
-## V. Daftar Pustaka
+# Daftar Pustaka
+
 1.  R. K. Nistanto dan R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, 25 Oktober 2019. [Online]. Available:
 https://share.google/5AmjZo49fXftXo0to
 2.  A. (dkk.), “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. [Online]. Available:
