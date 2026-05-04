@@ -8,13 +8,13 @@ Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti 
 
 Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan UU No. 19 Tahun 2016 (UU ITE) mengatur tanggung jawab dalam penggunaan dan pengelolaan sistem elektronik.
 
-* a. Pasal relevan:
+a. Pasal relevan:
 - Pasal 15 ayat (1):
 Penyelenggara sistem elektronik wajib menyelenggarakan sistem secara andal, aman, dan bertanggung jawab.
 - Pasal 15 ayat (2):
 Penyelenggara bertanggung jawab terhadap beroperasinya sistem elektronik sebagaimana mestinya.
 
-* b. Analisis terhadap kasus:
+b. Analisis terhadap kasus:
 Sistem MCAS dapat dikategorikan sebagai sistem elektronik.
 - Kegagalan akibat:
 - Tidak adanya redundansi
@@ -22,7 +22,7 @@ Sistem MCAS dapat dikategorikan sebagai sistem elektronik.
 - Minimnya transparansi
 menunjukkan bahwa sistem tidak memenuhi prinsip keandalan dan keamanan.
 
-* c. Implikasi hukum di Indonesia
+c. Implikasi hukum di Indonesia
 Jika kasus serupa terjadi di Indonesia:
 - Perusahaan dapat dianggap melanggar kewajiban hukum
 - Berpotensi terkena:
@@ -36,7 +36,7 @@ Jika kasus serupa terjadi di Indonesia:
 
 Mengacu pada UU No. 8 Tahun 1999 tentang Perlindungan Konsumen:
 
-* a. Hak konsumen:
+a. Hak konsumen:
 - Mendapatkan keamanan dan keselamatan
 - Mendapatkan informasi yang benar dan jelas
 
@@ -44,14 +44,14 @@ Mengacu pada UU No. 8 Tahun 1999 tentang Perlindungan Konsumen:
 - Memberikan informasi yang jujur
 - Menjamin kualitas dan keamanan produk
 
-* c. Analisis:
+c. Analisis:
 Dalam kasus MCAS:
 - Pilot dan maskapai adalah “konsumen” dari sistem
 - Informasi penting tentang MCAS:
 - Tidak dijelaskan secara transparan
 - Tidak dimasukkan secara memadai dalam pelatihan
 
-* d. Kesimpulan hukum:
+d. Kesimpulan hukum:
 Tindakan tersebut dapat dikategorikan sebagai:
 - Cacat informasi (misleading information)
 - Produk tidak aman (defective product)
