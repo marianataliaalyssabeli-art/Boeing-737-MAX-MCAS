@@ -1,4 +1,6 @@
-## III. Analisis Etika, Moral, dan Etika Profesi
+# BAB III
+## Analisis Etika, Moral, dan Etika Profesi
+
 Analisis ini bertujuan untuk membedakan secara jelas antara moral (nilai pribadi), etika umum (prinsip sosial), dan etika profesi (standar formal dalam bidang pekerjaan), serta mengevaluasi bagaimana ketiganya gagal diterapkan dalam kasus sistem MCAS (Maneuvering Characteristics Augmentation System).
 ---
 

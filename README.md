@@ -28,7 +28,8 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 - [Bab I - Deskripsi Kasus](bab1-deskripsi-kasus.md)
 - [Bab II - Fokus Analisis](bab2-fokus-analisis.md)
 - [Bab III - Analisis Etika](bab3-analisis-etika.md)
-- [Bab IV - Kesimpulan](bab4-kesimpulan.md)
+- [Bab IV - Analisis Hukum](bab4-analisis-hukum.md)
+- [Bab V - Kesimpulan](bab5-kesimpulan.md)
 - [Daftar Pustaka](daftar-pustaka.md)
 
 ---
@@ -133,7 +134,7 @@ Dengan demikian, dapat disimpulkan bahwa kegagalan dalam memenuhi tanggung jawab
 
 # BAB III
 ## Analisis Etika, Moral, dan Etika Profesi
-###
+
 Analisis ini bertujuan untuk membedakan secara jelas antara moral (nilai pribadi), etika umum (prinsip sosial), dan etika profesi (standar formal dalam bidang pekerjaan), serta mengevaluasi bagaimana ketiganya gagal diterapkan dalam kasus sistem MCAS (Maneuvering Characteristics Augmentation System).
 ---
 
@@ -227,7 +228,71 @@ Kasus ini memenuhi kriteria tersebut:
 
 ---
 
-# BAB IV
+# BAB V
+## Analisis Hukum
+**Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
+
+Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti Boeing 737 MAX (MCAS) dapat ditinjau berdasarkan peraturan perundang-undangan di Indonesia. Meskipun kasus terjadi di luar negeri, prinsip-prinsip hukumnya tetap relevan sebagai pembelajaran dalam pengembangan teknologi di Indonesia, khususnya pada sistem safety-critical.
+
+1. Tinjauan Berdasarkan UU ITE (Undang-Undang Informasi dan Transaksi Elektronik)
+
+Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan UU No. 19 Tahun 2016 (UU ITE) mengatur tanggung jawab dalam penggunaan dan pengelolaan sistem elektronik.
+
+* a. Pasal relevan:
+- Pasal 15 ayat (1):
+Penyelenggara sistem elektronik wajib menyelenggarakan sistem secara andal, aman, dan bertanggung jawab.
+- Pasal 15 ayat (2):
+Penyelenggara bertanggung jawab terhadap beroperasinya sistem elektronik sebagaimana mestinya.
+
+* b. Analisis terhadap kasus:
+Sistem MCAS dapat dikategorikan sebagai sistem elektronik.
+- Kegagalan akibat:
+- Tidak adanya redundansi
+- Kurangnya validasi data
+- Minimnya transparansi
+menunjukkan bahwa sistem tidak memenuhi prinsip keandalan dan keamanan.
+
+* c. Implikasi hukum di Indonesia
+Jika kasus serupa terjadi di Indonesia:
+- Perusahaan dapat dianggap melanggar kewajiban hukum
+- Berpotensi terkena:
+- Sanksi administratif
+- Gugatan perdata (ganti rugi)
+- Bahkan pidana jika terbukti ada kelalaian serius
+
+---
+
+2. Tinjauan Berdasarkan Perlindungan Konsumen
+
+Mengacu pada UU No. 8 Tahun 1999 tentang Perlindungan Konsumen:
+
+* a. Hak konsumen:
+- Mendapatkan keamanan dan keselamatan
+- Mendapatkan informasi yang benar dan jelas
+
+* b. Kewajiban pelaku usaha:
+- Memberikan informasi yang jujur
+- Menjamin kualitas dan keamanan produk
+
+* c. Analisis:
+Dalam kasus MCAS:
+- Pilot dan maskapai adalah “konsumen” dari sistem
+- Informasi penting tentang MCAS:
+- Tidak dijelaskan secara transparan
+- Tidak dimasukkan secara memadai dalam pelatihan
+
+* d. Kesimpulan hukum:
+Tindakan tersebut dapat dikategorikan sebagai:
+- Cacat informasi (misleading information)
+- Produk tidak aman (defective product)
+Di Indonesia, hal ini dapat berujung pada:
+- Gugatan ganti rugi
+- Penarikan produk (recall)
+- Sanksi terhadap perusahaan
+
+--- 
+
+# BAB V
 ## Kesimpulan
 
 Secara keseluruhan, kasus Boeing 737 MAX merupakan contoh nyata kegagalan yang melibatkan aspek teknis, etika, organisasi, dan hukum dalam pengembangan sistem safety-critical. Kegagalan sistem MCAS (Maneuvering Characteristics Augmentation System) menunjukkan lemahnya desain engineering, khususnya dalam hal redundansi, validasi data, dan transparansi kepada pengguna, yang diperparah oleh tekanan bisnis dan kompetisi industri. Selain itu, lemahnya mekanisme whistleblowing serta budaya organisasi yang tidak mengutamakan keselamatan turut memperbesar risiko yang sebenarnya dapat dicegah. Dari sisi etika, baik berdasarkan prinsip Association for Computing Machinery maupun Institute of Electrical and Electronics Engineers, terjadi pelanggaran serius terkait prioritas keselamatan publik, kejujuran, dan tanggung jawab profesional. Ditinjau dari aspek hukum, kasus ini juga menunjukkan potensi pelanggaran terhadap prinsip keamanan sistem dan perlindungan konsumen. Oleh karena itu, pelajaran utama dari kasus ini adalah bahwa dalam pengembangan teknologi, khususnya sistem kritis, keselamatan manusia harus menjadi prioritas yang tidak boleh dianggap biasa oleh kepentingan bisnis, serta diperlukan integrasi kuat antara keunggulan teknis, etika profesi, dan tata kelola organisasi yang bertanggung jawab.
