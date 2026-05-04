@@ -23,7 +23,7 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 
 ---
 
-# I DESKRIPSI KASUS
+# I. DESKRIPSI KASUS
 
 Dua kecelakaan penerbangan besar yang melibatkan pesawat Boeing 737 MAX terjadi dalam kurun waktu kurang dari lima bulan, yaitu Lion Air Flight 610 pada 29 Oktober 2018 dan Ethiopian Airlines Flight 302 crash pada 10 Maret 2019. Kedua insiden ini menewaskan total 346 orang dan menimbulkan perhatian besar dari dunia internasional.
 
@@ -48,7 +48,7 @@ Beberapa menit setelah lepas landas, pilot melaporkan kesulitan mengendalikan pe
 
 ---
 
-# II FOKUS ANALISIS
+# II. FOKUS ANALISIS
 
 ### 1. Kompromi Engineering vs Tekanan Bisnis
 
@@ -119,7 +119,7 @@ Dengan demikian, dapat disimpulkan bahwa kegagalan dalam memenuhi tanggung jawab
 
 ---
 
-# III ANALISIS ETIKA, MORAL, dan ETIKA PROFESI
+# III. ANALISIS ETIKA, MORAL, dan ETIKA PROFESI
 
 Berdasarkan fokus permasalahan yang telah dibahas pada BAB II, seperti adanya kompromi antara engineering dan kepentingan bisnis, lemahnya mekanisme whistleblowing, serta kurangnya tanggung jawab dalam pengembangan sistem safety-critical, maka diperlukan analisis lebih lanjut dari sudut pandang etika, moral, dan etika profesi untuk menilai apakah tindakan tersebut dapat dibenarkan atau tidak.
 
@@ -195,7 +195,7 @@ Berdasarkan analisis etika, moral, dan etika profesi, dapat disimpulkan bahwa ke
 
 ---
 
-# IV ANALISIS HUKUM & REGULASI
+# IV. ANALISIS HUKUM & REGULASI
 **Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
 
 Analisis hukum bertujuan untuk melihat bagaimana kasus kegagalan sistem seperti Boeing 737 MAX (MCAS) dapat ditinjau berdasarkan peraturan perundang-undangan di Indonesia. Meskipun kasus terjadi di luar negeri, prinsip-prinsip hukumnya tetap relevan sebagai pembelajaran dalam pengembangan teknologi di Indonesia, khususnya pada sistem safety-critical.
@@ -368,7 +368,7 @@ Berdasarkan analisis hukum tersebut, dapat disimpulkan bahwa kegagalan sistem se
 
 --- 
 
-# V KESIMPULAN
+# V. KESIMPULAN
 
 Secara keseluruhan, kasus Boeing 737 MAX merupakan contoh nyata kegagalan yang melibatkan aspek teknis, etika, organisasi, dan hukum dalam pengembangan sistem safety-critical. Kegagalan sistem MCAS (Maneuvering Characteristics Augmentation System) menunjukkan lemahnya desain engineering, khususnya dalam hal redundansi, validasi data, dan transparansi kepada pengguna, yang diperparah oleh tekanan bisnis dan kompetisi industri. Selain itu, lemahnya mekanisme whistleblowing serta budaya organisasi yang tidak mengutamakan keselamatan turut memperbesar risiko yang sebenarnya dapat dicegah. Dari sisi etika, baik berdasarkan prinsip Association for Computing Machinery maupun Institute of Electrical and Electronics Engineers, terjadi pelanggaran serius terkait prioritas keselamatan publik, kejujuran, dan tanggung jawab profesional. Ditinjau dari aspek hukum, kasus ini juga menunjukkan potensi pelanggaran terhadap prinsip keamanan sistem dan perlindungan konsumen. Oleh karena itu, pelajaran utama dari kasus ini adalah bahwa dalam pengembangan teknologi, khususnya sistem kritis, keselamatan manusia harus menjadi prioritas yang tidak boleh dianggap biasa oleh kepentingan bisnis, serta diperlukan integrasi kuat antara keunggulan teknis, etika profesi, dan tata kelola organisasi yang bertanggung jawab.
 
