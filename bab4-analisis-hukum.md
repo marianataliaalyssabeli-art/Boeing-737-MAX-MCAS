@@ -167,3 +167,5 @@ Dalam konteks Indonesia, pengembangan sistem teknologi, terutama yang bersifat k
 - Keselamatan manusia memiliki nilai tertinggi
 - Budaya “mengakali aturan” tidak dapat dibenarkan secara hukum
 - Tanggung jawab tidak hanya bersifat teknis, tetapi juga hukum dan moral
+
+Berdasarkan analisis hukum tersebut, dapat disimpulkan bahwa kegagalan sistem seperti pada kasus Boeing 737 MAX tidak hanya berdampak secara teknis, tetapi juga memiliki konsekuensi hukum yang serius. Hal ini menegaskan bahwa pengembangan sistem teknologi, khususnya yang bersifat safety-critical, harus memenuhi prinsip keandalan, keamanan, transparansi, serta kepatuhan terhadap regulasi yang berlaku.
