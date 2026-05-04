@@ -26,9 +26,9 @@ c. Implikasi hukum di Indonesia
 Jika kasus serupa terjadi di Indonesia:
 - Perusahaan dapat dianggap melanggar kewajiban hukum
 - Berpotensi terkena:
-- Sanksi administratif
-- Gugatan perdata (ganti rugi)
-- Bahkan pidana jika terbukti ada kelalaian serius
+    - Sanksi administratif
+    - Gugatan perdata (ganti rugi)
+    - Bahkan pidana jika terbukti ada kelalaian serius
 
 ---
 
@@ -47,8 +47,8 @@ b. Kewajiban pelaku usaha:
 c. Analisis dalam kasus MCAS:
 - Pilot dan maskapai adalah “konsumen” dari sistem
 - Informasi penting tentang MCAS:
-- Tidak dijelaskan secara transparan
-- Tidak dimasukkan secara memadai dalam pelatihan
+    - Tidak dijelaskan secara transparan
+    - Tidak dimasukkan secara memadai dalam pelatihan
 
 d. Kesimpulan hukum:
 
@@ -65,17 +65,15 @@ Di Indonesia, hal ini dapat berujung pada:
 
 **3. Tinjauan Berdasarkan Hukum Pidana (Kelalaian / Negligence)**
 
-Dalam KUHP (Kitab Undang-Undang Hukum Pidana), terdapat konsep kelalaian (culpa):
+Dalam KUHP (Kitab Undang-Undang Hukum Pidana), terdapat konsep kelalaian (culpa): "Pasal 359 KUHP: Barang siapa karena kelalaiannya menyebabkan orang lain meninggal dunia dapat dipidana".
 
-a. Pasal 359 KUHP:
-Barang siapa karena kelalaiannya menyebabkan orang lain meninggal dunia dapat dipidana.
-
-b. Analisis terkait dengan kasus:
+a. Analisis terkait dengan kasus:
 
 Risiko sudah dapat diprediksi, namun tidak dicegah dan tidak ditindaklanjuti. Maka, dapat dikategorikan sebagai kelalaian berat (gross negligence)
 
-c. Dalam konteks Indonesia:
-- Developer, engineer, atau manajemen bisa:
+b. Dalam konteks Indonesia:
+
+Developer, engineer, atau manajemen bisa:
 - Dimintai pertanggungjawaban pidana
 - Terutama jika terbukti mengabaikan standar keselamatan
 
@@ -116,8 +114,7 @@ a. Prinsip utama:
 
 b. Analisis:
 
-Dalam kasus MCAS, sistem tidak diuji secara memadai dalam kondisi ekstrem dan informasi tidak lengkap kepada pengguna
-
+Dalam kasus MCAS, sistem tidak diuji secara memadai dalam kondisi ekstrem dan informasi tidak lengkap kepada pengguna. 
 Jika hal ini terjadi di Indonesia:
 - Sertifikasi bisa:
    - Dicabut
