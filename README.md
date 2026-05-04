@@ -132,104 +132,82 @@ Dengan demikian, dapat disimpulkan bahwa kegagalan dalam memenuhi tanggung jawab
 
 ---
 
-# BAB III
+## BAB III
 ## Analisis Etika, Moral, dan Etika Profesi
+
+Berdasarkan fokus permasalahan yang telah dibahas pada BAB II, seperti adanya kompromi antara engineering dan kepentingan bisnis, lemahnya mekanisme whistleblowing, serta kurangnya tanggung jawab dalam pengembangan sistem safety-critical, maka diperlukan analisis lebih lanjut dari sudut pandang etika, moral, dan etika profesi untuk menilai apakah tindakan tersebut dapat dibenarkan atau tidak.
 
 Analisis ini bertujuan untuk membedakan secara jelas antara moral (nilai pribadi), etika umum (prinsip sosial), dan etika profesi (standar formal dalam bidang pekerjaan), serta mengevaluasi bagaimana ketiganya gagal diterapkan dalam kasus sistem MCAS (Maneuvering Characteristics Augmentation System).
 
----
+**1. Analisis Etika**
 
-### 1. Analisis Etika
-Etika umum menggunakan teori-teori filsafat untuk menilai apakah suatu tindakan benar atau salah secara rasional.
-- Utilitarianisme (Konsekuensialisme)
-Tindakan dianggap benar jika menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
+Etika umum digunakan untuk menilai apakah suatu tindakan benar atau salah berdasarkan prinsip rasional.
 
-Penerapan pada Kasus
-MCAS dirancang untuk meningkatkan keselamatan secara umum
-Namun implementasinya menyebabkan 346 kematian
-Analisis:
-Dampak negatif jauh lebih besar daripada manfaat
-Maka tindakan tersebut tidak etis secara utilitarian
+a. Utilitarianisme (Konsekuensialisme)
+Utilitarianisme merupakan teori etika yang dikemukakan oleh Jeremy Bentham dan dikembangkan oleh John Stuart Mill, yang menyatakan bahwa suatu tindakan dianggap benar apabila menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
 
-- Deontologi (Etika Kewajiban)
-Tindakan benar jika sesuai dengan kewajiban moral
-Tidak bergantung pada hasil akhir
+Dalam kasus Boeing 737 MAX, sistem MCAS dirancang untuk meningkatkan keselamatan penerbangan secara umum. Namun, dalam implementasinya, sistem tersebut justru menyebabkan kecelakaan yang menewaskan 346 orang.
 
-Penerapan pada Kasus
-Kewajiban profesional: jujur, melindungi keselamatan, dan tidak menyembunyikan informasi
-Faktanya: Informasi tidak transparan dan Risiko tidak disampaikan
-Analisis:
-Melanggar kewajiban moral → tidak etis secara deontologi
+Dengan demikian, apabila dilihat dari perspektif utilitarianisme, dampak negatif yang ditimbulkan jauh lebih besar dibandingkan manfaatnya. Oleh karena itu, tindakan tersebut dapat dinilai tidak etis.
 
-- Virtue Ethics (Etika Kebajikan)
-Menilai tindakan berdasarkan karakter dan kebajikan pelaku.
+b. Deontologi (Etika Kewajiban)
+Deontologi merupakan teori etika yang dikemukakan oleh Immanuel Kant, yang menyatakan bahwa suatu tindakan dinilai benar apabila sesuai dengan kewajiban moral dan prinsip universal, tanpa bergantung pada hasil akhir.
 
-Penerapan pada Kasus
-Karakter yang seharusnya dimiliki: tanggung jawab, integritas, dan kehati-hatian
-Faktanya:
-Keputusan menunjukkan kurangnya kehati-hatian
-Integritas dipertanyakan
-Analisis:
-Tidak mencerminkan kebajikan profesional
+Dalam konteks ini, kewajiban profesional dalam pengembangan sistem teknologi meliputi kejujuran, transparansi, serta tanggung jawab dalam menjaga keselamatan publik. Namun, dalam kasus ini, informasi mengenai sistem MCAS tidak disampaikan secara jelas kepada pilot.
 
----
+Hal tersebut menunjukkan adanya pelanggaran terhadap kewajiban moral, sehingga tindakan ini tidak dapat dibenarkan secara deontologis.
 
-### 2. Analisis Moral
-Moral adalah seperangkat nilai tentang benar dan salah yang berasal dari hati nurani individu, budaya, dan norma sosial. Moral bersifat internal dan menjadi dasar dalam pengambilan keputusan pribadi.
+c. Virtue Ethics (Etika Kebajikan)
+Virtue ethics merupakan pendekatan etika yang berasal dari pemikiran Aristoteles, yang menilai tindakan berdasarkan karakter dan kebajikan individu, seperti tanggung jawab, integritas, dan kehati-hatian.
 
-#### Analisi kasus:
-Dalam kasus ini, terdapat beberapa tindakan yang secara moral dapat dipertanyakan:
-- Menyembunyikan atau Tidak Mengungkap Risiko
-Risiko MCAS tidak dikomunikasikan secara terbuka kepada pilot
-Informasi penting tidak dimasukkan secara jelas dalam manual
-Secara moral:
-Tindakan ini melanggar prinsip kejujuran
-Mengorbankan keselamatan orang lain demi kepentingan tertentu
-- Mengabaikan Potensi Bahaya yang Sudah Diketahui
-Ada indikasi bahwa risiko telah dikenali secara internal
-Namun tidak ditindaklanjuti secara memadai
-Secara moral:
-Ini termasuk kelalaian (negligence)
-Dalam etika klasik (misalnya pemikiran Aristotle), tindakan ini bertentangan dengan konsep virtue seperti tanggung jawab dan kehati-hatian
-- Prioritas Profit dibanding Nyawa
-Keputusan bisnis memengaruhi desain sistem
-Dalam perspektif moral:
-Kehidupan manusia memiliki nilai tertinggi
-Mengorbankan keselamatan demi keuntungan dianggap tidak bermoral
----
+Dalam kasus ini, keputusan yang diambil menunjukkan kurangnya kehati-hatian serta tanggung jawab profesional dalam merancang sistem yang aman.
 
-### 3. Analisis Etika Profesi
-Etika profesi adalah standar perilaku yang ditetapkan oleh organisasi profesional seperti: Association for Computing Machinery dan Institute of Electrical and Electronics Engineers
-1. Kewajiban Utama dalam Profesi Teknologi
-Dalam sistem safety-critical, profesional wajib:
-- Mengutamakan keselamatan publik
-- Menyediakan sistem yang andal
-- Menjaga transparansi
-- Bertanggung jawab atas hasil sistem
+Dengan demikian, tindakan tersebut tidak mencerminkan kebajikan seorang profesional dan dinilai tidak etis menurut pendekatan virtue ethics.
 
-2. Analisis Pelanggaran
-- Kegagalan Keselamatan
-Sistem tidak memenuhi standar keamanan tinggi
-Tidak ada redundansi sensor
-- Kegagalan Transparansi
-Informasi tidak diberikan kepada pilot
-Dokumentasi tidak lengkap
-- Kegagalan Tanggung Jawab
-Risiko tidak ditangani dengan serius
-Tidak ada mitigasi memadai
+**2. Analisis Moral**
 
-3. Konsep Negligence dalam Profesi
-Dalam etika profesi, dikenal istilah Negligence (kelalaian profesional)
-Ciri-cirinya:
-- Tidak memenuhi standar yang seharusnya
-- Mengabaikan risiko yang dapat diprediksi
-Kasus ini memenuhi kriteria tersebut:
-- Risiko bisa diprediksi
-- Namun tidak dicegah
+Moral merupakan seperangkat nilai tentang benar dan salah yang berasal dari hati nurani, norma sosial, dan budaya. Moral bersifat internal dan menjadi dasar dalam pengambilan keputusan individu.
+
+Dalam kasus Boeing 737 MAX, terdapat beberapa tindakan yang secara moral dapat dipertanyakan:
+
+a. Tidak Mengungkap Risiko Secara Transparan
+Risiko yang terdapat pada sistem MCAS tidak dikomunikasikan secara terbuka kepada pilot, serta tidak dijelaskan secara memadai dalam manual. Hal ini melanggar prinsip kejujuran dan menunjukkan kurangnya tanggung jawab terhadap keselamatan pengguna.
+
+b. Mengabaikan Potensi Bahaya yang Sudah Diketahui
+Terdapat indikasi bahwa potensi risiko telah diketahui secara internal, namun tidak ditindaklanjuti dengan perbaikan yang memadai. Tindakan ini termasuk dalam bentuk kelalaian (negligence) dan bertentangan dengan nilai tanggung jawab serta kehati-hatian.
+
+c. Mengutamakan Profit dibanding Keselamatan
+Keputusan bisnis yang memengaruhi desain sistem menunjukkan bahwa kepentingan ekonomi lebih diutamakan dibandingkan keselamatan manusia. Dalam perspektif moral, hal ini tidak dapat dibenarkan karena kehidupan manusia memiliki nilai yang lebih tinggi dibandingkan keuntungan.
+
+**3. Analisis Etika Profesi**
+
+Etika profesi merupakan standar perilaku yang harus dipatuhi oleh seorang profesional dalam menjalankan pekerjaannya, khususnya dalam bidang teknologi informasi dan rekayasa perangkat lunak. Standar ini mengacu pada prinsip-prinsip yang ditetapkan oleh organisasi profesional seperti ACM (Association for Computing Machinery) dan IEEE (Institute of Electrical and Electronics Engineers).
+
+Dalam sistem yang bersifat safety-critical, seorang profesional memiliki kewajiban untuk:
+
+Mengutamakan keselamatan publik
+Mengembangkan sistem yang andal dan aman
+Menjaga transparansi informasi
+Bertanggung jawab atas hasil dari sistem yang dikembangkan
+
+Namun, dalam kasus Boeing 737 MAX, terdapat beberapa pelanggaran terhadap etika profesi, yaitu:
+
+a. Kegagalan dalam Menjamin Keselamatan
+Sistem MCAS tidak dirancang dengan redundansi sensor yang memadai, sehingga meningkatkan risiko kegagalan sistem.
+
+b. Kurangnya Transparansi
+Informasi mengenai cara kerja dan risiko sistem tidak disampaikan secara jelas kepada pilot.
+
+c. Kelalaian Profesional (Professional Negligence)
+Risiko yang sebenarnya dapat diprediksi tidak ditangani dengan baik, sehingga menunjukkan adanya kelalaian dalam memenuhi standar profesional.
+
+
+Berdasarkan analisis etika, moral, dan etika profesi, dapat disimpulkan bahwa kegagalan dalam kasus Boeing 737 MAX tidak hanya disebabkan oleh kesalahan teknis, tetapi juga oleh pelanggaran terhadap prinsip etika, nilai moral, dan tanggung jawab profesional.
+
 
 ---
 
-# BAB V
+# BAB IV
 ## Analisis Hukum
 **Analisis Hukum (Perspektif Indonesia: UU ITE, HKI, dan Regulasi Terkait)**
 
@@ -399,6 +377,8 @@ Dalam konteks Indonesia, pengembangan sistem teknologi, terutama yang bersifat k
 - Budaya “mengakali aturan” tidak dapat dibenarkan secara hukum
 - Tanggung jawab tidak hanya bersifat teknis, tetapi juga hukum dan moral
 
+Berdasarkan analisis hukum tersebut, dapat disimpulkan bahwa kegagalan sistem seperti pada kasus Boeing 737 MAX tidak hanya berdampak secara teknis, tetapi juga memiliki konsekuensi hukum yang serius. Hal ini menegaskan bahwa pengembangan sistem teknologi, khususnya yang bersifat safety-critical, harus memenuhi prinsip keandalan, keamanan, transparansi, serta kepatuhan terhadap regulasi yang berlaku.
+
 --- 
 
 # BAB V
@@ -410,11 +390,18 @@ Secara keseluruhan, kasus Boeing 737 MAX merupakan contoh nyata kegagalan yang m
 
 # Daftar Pustaka
 
-1.  R. K. Nistanto dan R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, 25 Oktober 2019. Diakses dari:
-https://share.google/5AmjZo49fXftXo0to
-2.  A. (dkk.), “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. Diakses dari:
-https://share.google/aivdPZhe5OuxeL5EL
-3.  Nistanto, R. K., & Wahyudi, R. (2019, Oktober 25). KNKT terbitkan laporan Lion Air JT610, ungkap penyebab kecelakaan. Kompas.com. Diakses dari:
-https://tekno.kompas.com/read/2019/10/25/15420657/knkt-terbitkan-laporan-lion-air-jt610-ungkap-penyebab-kecelakaan?page=all
-4.  Widagdo, G. S., Datu, S. C. K., & Robbani, H. (2024). Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan. Decisio Law Journal, 1(1), 34–39. Diakses dari: 
-https://www.researchgate.net/publication/384609060
+[1] R. K. Nistanto and R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, Oct. 25, 2019. [Online]. Available: https://tekno.kompas.com/read/2019/10/25/15420657/knkt-terbitkan-laporan-lion-air-jt610-ungkap-penyebab-kecelakaan?page=all
+
+[2] A. et al., “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+
+[3] G. S. Widagdo, S. C. K. Datu, and H. Robbani, “Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan,” Decisio Law Journal, vol. 1, no. 1, pp. 34–39, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+
+[4] J. Bentham, An Introduction to the Principles of Morals and Legislation. [Online]. Available: https://www.econlib.org/library/Bentham/bnthPML.html
+
+[5] I. Kant, Groundwork of the Metaphysics of Morals. [Online]. Available: https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf
+
+[6] Association for Computing Machinery, “ACM Code of Ethics and Professional Conduct,” 2018. [Online]. Available: https://www.acm.org/code-of-ethics
+
+[7] Institute of Electrical and Electronics Engineers, “IEEE Code of Ethics,” 2020. [Online]. Available: https://www.ieee.org/about/corporate/governance/p7-8.html
+
+[8] Republik Indonesia, “Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen; Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan.” [Online]. Available: https://peraturan.bpk.go.id
