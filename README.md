@@ -96,13 +96,17 @@ Ketika sensor error:
 
 Whistleblowing merupakan tindakan seseorang dalam organisasi untuk mengungkapkan informasi terkait pelanggaran, kesalahan, atau praktik yang berpotensi membahayakan kepada pihak internal maupun eksternal yang berwenang. Dalam konteks kasus Boeing 737 MAX, whistleblowing menjadi aspek penting karena adanya dugaan bahwa beberapa pihak internal telah mengetahui potensi risiko dari sistem MCAS sebelum terjadinya kecelakaan.
 Dalam investigasi yang dilakukan setelah kecelakaan, ditemukan bahwa terdapat karyawan Boeing yang menyampaikan kekhawatiran terkait desain MCAS dan kurangnya transparansi informasi kepada pilot. Namun, informasi tersebut tidak ditindaklanjuti secara memadai oleh manajemen. Selain itu, terdapat indikasi bahwa tekanan untuk mempercepat sertifikasi dan produksi pesawat membuat suara-suara kritis dari internal organisasi tidak mendapatkan perhatian yang semestinya.
+
 Peran whistleblower sangat penting dalam sistem safety-critical karena mereka dapat menjadi “garis pertahanan terakhir” dalam mencegah terjadinya kegagalan sistem. Dengan melaporkan potensi bahaya sejak dini, organisasi memiliki kesempatan untuk melakukan evaluasi dan perbaikan sebelum risiko tersebut berkembang menjadi kecelakaan.
+
 Namun, dalam praktiknya, whistleblowing sering menghadapi berbagai hambatan, seperti:
 - Takut terhadap tekanan atau sanksi dari perusahaan
 - Budaya organisasi yang tidak terbuka terhadap kritik
 - Kurangnya perlindungan bagi pelapor (whistleblower)
 - Adanya konflik kepentingan antara keselamatan dan target bisnis
+
 Dalam kasus Boeing, kurang optimalnya mekanisme whistleblowing dan tidak adanya tindak lanjut yang serius terhadap laporan internal menunjukkan lemahnya budaya keselamatan (safety culture) dalam organisasi. Hal ini berkontribusi pada tidak terdeteksinya risiko secara lebih awal.
+
 Oleh karena itu, penting bagi perusahaan, khususnya yang bergerak di bidang teknologi dan transportasi, untuk:
 - Menyediakan saluran whistleblowing yang aman dan anonim
 - Memberikan perlindungan hukum bagi pelapor
