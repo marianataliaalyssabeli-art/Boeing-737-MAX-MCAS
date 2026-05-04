@@ -10,10 +10,6 @@ Dokumen ini disusun untuk memenuhi **Tugas Mata Kuliah Etika Profesi (A)**.
 - **Instansi**: Universitas Pancasila, Fakultas Teknik, S1 Teknik Informatika  
 - **Tahun**: 2026  
 
-<p align="center">
-  <img src="logo-up.png" width="180"/>
-</p>
-
 ---
 
 ## Anggota Kelompok 9
