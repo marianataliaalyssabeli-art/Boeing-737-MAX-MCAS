@@ -28,7 +28,7 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ---
 
-# I. KRONOLOGI & KONTEKS
+# 1. KRONOLOGI & KONTEKS
 
 Dua kecelakaan penerbangan besar yang melibatkan pesawat Boeing 737 MAX terjadi dalam kurun waktu kurang dari lima bulan, yaitu Lion Air Flight 610 pada 29 Oktober 2018 dan Ethiopian Airlines Flight 302 crash pada 10 Maret 2019. Kedua insiden ini menewaskan total 346 orang dan menimbulkan perhatian besar dari dunia internasional.
 
@@ -53,23 +53,41 @@ Beberapa menit setelah lepas landas, pilot melaporkan kesulitan mengendalikan pe
 
 ---
 
-# II. FAKTA KUNCI & CATATAN TRANSPARANSI
+# 2. FAKTA KUNCI & CATATAN TRANSPARANSI
 
-Fakta Terverifikasi (Berdasarkan Investigasi KNKT dan FAA):
+Dalam menganalisis suatu kasus etika profesi, penting untuk membedakan antara fakta yang telah dibuktikan melalui investigasi resmi dengan informasi yang masih berupa dugaan atau sedang diproses secara hukum.
 
-- Single Point of Failure: Sistem MCAS hanya mengambil input dari satu sensor AoA tunggal, tanpa adanya komparasi atau validasi silang dengan sensor AoA di sisi sebelahnya. Jika sensor tunggal tersebut rusak atau mengalami error, MCAS akan tetap aktif mengeksekusi perintah nose-down.
+## 2.1 Fakta yang Telah Terverifikasi
 
-- Penyembunyian Informasi: Boeing secara sengaja menghapus penjelasan detail mengenai sistem MCAS dari manual pelatihan pilot (Flight Crew Operations Manual) dengan tujuan agar pesawat tidak dikategorikan sebagai jenis baru yang membutuhkan pelatihan simulator mahal.
+Berdasarkan laporan KNKT, FAA, NTSB, dan Departemen Kehakiman Amerika Serikat, fakta-fakta berikut telah terverifikasi:
 
-- Aktivasi Berulang: Jika pilot mencoba menarik tuas kendali untuk menaikkan hidung pesawat, MCAS akan aktif kembali secara otomatis setiap 5 detik setelah mendeteksi data AoA yang salah belum berubah, menyebabkan kelelahan fisik pada pilot (fight the software).
+- Lion Air JT610 mengalami kecelakaan pada 29 Oktober 2018 dengan korban sebanyak 189 orang.
+- Ethiopian Airlines ET302 mengalami kecelakaan pada 10 Maret 2019 dengan korban sebanyak 157 orang.
+- Total korban jiwa dari kedua kecelakaan mencapai 346 orang.
+- MCAS menggunakan data dari satu sensor AoA pada desain awal.
+- Sensor AoA pada Lion Air JT610 memberikan data yang salah sebelum dan selama penerbangan.
+- MCAS aktif berulang kali berdasarkan data sensor yang salah.
+- Informasi mengenai MCAS tidak dijelaskan secara lengkap kepada sebagian besar pilot maupun maskapai.
+- Setelah investigasi selesai, Boeing memperbarui perangkat lunak MCAS sehingga menggunakan dua sensor AoA dan membatasi aktivasi sistem.
 
-Informasi yang Sempat Disengketakan / Catatan Transparansi:
+## 2.2 Informasi yang Masih Diperdebatkan
 
-Asumsi Awal: Pihak produsen sempat memberikan narasi awal bahwa kecelakaan disebabkan oleh kurangnya kompetensi dan performa kru pilot (maskapai dunia ketiga). Namun, investigasi kotak hitam (Black Box) membuktikan pilot telah melakukan prosedur darurat sesuai buku petunjuk umum, tetapi sistem otomasi mengesampingkan kendali manual pilot secara agresif.
+Beberapa informasi berikut masih menjadi bagian dari proses hukum atau analisis publik sehingga tidak dapat dinyatakan sebagai fakta yang telah terbukti secara final.
+
+- Dugaan bahwa tekanan persaingan dengan Airbus memengaruhi keputusan teknis dalam pengembangan 737 MAX.
+- Dugaan bahwa proses sertifikasi dilakukan terlalu cepat.
+- Dugaan adanya pengaruh Boeing terhadap sebagian proses evaluasi regulator.
+- Dugaan bahwa peringatan dari beberapa engineer tidak ditindaklanjuti secara memadai oleh manajemen.
+
+## 2.3 Catatan Transparansi
+
+Dalam laporan ini, seluruh analisis etika didasarkan pada fakta yang telah dipublikasikan melalui laporan resmi KNKT, FAA, NTSB, dan dokumen Departemen Kehakiman Amerika Serikat. Sementara itu, informasi yang masih berupa dugaan tidak dijadikan dasar utama dalam penarikan kesimpulan, melainkan hanya digunakan sebagai konteks untuk memahami proses pengambilan keputusan organisasi.
+
+Pendekatan ini bertujuan menjaga objektivitas analisis dan menghindari penyampaian informasi yang belum memiliki kepastian hukum.
 
 ---
 
-# III. PEMETAAN PEMANGKU KEPENTINGAN
+# 3. PEMETAAN PEMANGKU KEPENTINGAN
 
 |No | Pemangku Kepentingan                     | Peran/Kontribusi|  Dampak yang Diterima| Relasi Kuas|
 |---|------------------------------------------|------------|---------------------------|------------|
@@ -82,70 +100,86 @@ Asumsi Awal: Pihak produsen sempat memberikan narasi awal bahwa kecelakaan diseb
 
 ---
 
-# IV. ANALISIS EMPAT TEORI ETIKA
+# 4. ANALISIS EMPAT TEORI ETIKA
 
 Etika umum digunakan untuk menilai apakah suatu tindakan benar atau salah berdasarkan prinsip rasional. Berikut merupakan empat analisis teori etika:
 
-**1. Utilitarianisme (Konsekuensialisme)**
+## 4.1 Utilitarianisme (Konsekuensialisme)
 
 Utilitarianisme merupakan teori etika yang dikemukakan oleh Jeremy Bentham dan dikembangkan oleh John Stuart Mill, yang menyatakan bahwa suatu tindakan dianggap benar apabila menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
 
-Dalam kasus Boeing 737 MAX, sistem MCAS dirancang untuk meningkatkan keselamatan penerbangan secara umum. Namun, dalam implementasinya, sistem tersebut justru menyebabkan kecelakaan yang menewaskan 346 orang.
+Pada awal pengembangannya, Boeing berupaya mempertahankan daya saing terhadap Airbus melalui peluncuran Boeing 737 MAX tanpa memerlukan pelatihan simulator tambahan bagi pilot. Strategi tersebut diharapkan memberikan manfaat ekonomi berupa penghematan biaya pelatihan dan percepatan adopsi pesawat oleh maskapai.
+
+Namun, keputusan tersebut justru menghasilkan dampak yang jauh lebih besar berupa hilangnya 346 nyawa, kerugian finansial miliaran dolar, penurunan kepercayaan publik terhadap industri penerbangan, serta penghentian operasi seluruh armada Boeing 737 MAX di berbagai negara.
 
 Dengan demikian, apabila dilihat dari perspektif utilitarianisme, dampak negatif yang ditimbulkan jauh lebih besar dibandingkan manfaatnya. Oleh karena itu, tindakan tersebut dapat dinilai tidak etis.
 
-**2. Deontologi (Etika Kewajiban)**
+## 4.2 Deontologi (Etika Kewajiban)
 
 Deontologi merupakan teori etika yang dikemukakan oleh Immanuel Kant, yang menyatakan bahwa suatu tindakan dinilai benar apabila sesuai dengan kewajiban moral dan prinsip universal, tanpa bergantung pada hasil akhir.
 
-Dalam konteks ini, kewajiban profesional dalam pengembangan sistem teknologi meliputi kejujuran, transparansi, serta tanggung jawab dalam menjaga keselamatan publik. Namun, dalam kasus ini, informasi mengenai sistem MCAS tidak disampaikan secara jelas kepada pilot.
+Sebagai perusahaan yang mengembangkan sistem keselamatan penerbangan, Boeing memiliki kewajiban moral untuk:
 
-Hal tersebut menunjukkan adanya pelanggaran terhadap kewajiban moral, sehingga tindakan ini tidak dapat dibenarkan secara deontologis.
+- Mengembangkan sistem yang aman,
+- Memberikan informasi yang jujur kepada pengguna,
+- Melakukan pengujian secara menyeluruh,
+- Mengutamakan keselamatan publik.
 
-**3. Virtue Ethics (Etika Kebajikan)**
+Fakta bahwa informasi mengenai MCAS tidak disampaikan secara memadai kepada pilot menunjukkan adanya pelanggaran terhadap kewajiban moral tersebut. Oleh karena itu, dari sudut pandang deontologi, tindakan tersebut tidak dapat dibenarkan.
 
-Virtue ethics merupakan pendekatan etika yang berasal dari pemikiran Aristoteles, yang menilai tindakan berdasarkan karakter dan kebajikan individu, seperti tanggung jawab, integritas, dan kehati-hatian.
+## 4.3 Virtue Ethics (Etika Kebajikan)
 
-Dalam kasus ini, keputusan yang diambil menunjukkan kurangnya kehati-hatian serta tanggung jawab profesional dalam merancang sistem yang aman.
-Dengan demikian, tindakan tersebut tidak mencerminkan kebajikan seorang profesional dan dinilai tidak etis menurut pendekatan virtue ethics.
+Etika kebajikan yang dikembangkan Aristoteles menilai tindakan berdasarkan karakter moral dan kebajikan individu, seperti tanggung jawab, integritas, kejujuran, dan kehati-hatian.
 
-**4. Etika Hak/Kontraktarian**
+Dalam kasus ini, keputusan yang diambil menunjukkan kurangnya sifat kehati-hatian (prudence), tanggung jawab (responsibility), kejujuran (honesty), dan integritas (integrity). Seorang profesional di bidang rekayasa perangkat lunak seharusnya lebih mengutamakan keselamatan pengguna dibandingkan kepentingan bisnis jangka pendek.
 
-Menilai tindakan berdasarkan penghormatan terhadap hak-hak dasar individu yang terikat dalam kontrak sosial atau legal. Penumpang pesawat membeli tiket berdasarkan kontrak sosial tak tertulis bahwa produsen dan maskapai menjamin keamanan mereka. Pilot memiliki hak atas informasi yang akurat mengenai pesawat yang mereka kendalikan. Boeing melanggar hak hidup penumpang dan hak informasi pilot demi mempertahankan keuntungan bisnis sepihak.
+Dengan demikian, tindakan yang dilakukan tidak mencerminkan karakter profesional yang beretika.
+
+## 4.4 Etika Hak/Kontraktarian
+
+Teori hak menyatakan bahwa setiap individu memiliki hak yang harus dihormati oleh pihak lain.
+
+Dalam konteks ini:
+
+- Pilot memiliki hak memperoleh informasi yang lengkap mengenai sistem yang mereka operasikan.
+- Penumpang memiliki hak atas keselamatan selama menggunakan layanan transportasi udara.
+- Maskapai memiliki hak memperoleh produk yang aman dan sesuai spesifikasi.
+
+Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam mengambil keputusan saat menghadapi kondisi darurat. Oleh karena itu, tindakan Boeing dapat dinilai melanggar hak-hak para pemangku kepentingan tersebut.
 
 ---
 
-# V. LENSA KELIMA - PANCASILA
+# 5. LENSA KELIMA - PANCASILA
 (Analisis sila 1–5 yang relevan + Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).)
 
 ---
 
-# VI.  KODE ETIK PROFESI
+# 6.  KODE ETIK PROFESI
 (ACM/IEEE, PII, IAI, atau ASME sesuai bidang kasus — pasal/klausul mana yang dilanggar atau relevan.)
 
 ---
 
-# VII. ANALISIS REGULASI & HUKUM
+# 7. ANALISIS REGULASI & HUKUM
 (UU PDP, UU ITE, dan regulasi sektoral terkait; pemisahan tegas tanggung jawab hukum vs tanggung jawab moral.)
 
 ---
 
-# VIII. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
+# 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
 (Penyalahgunaan kepercayaan/kewenangan, penyembunyian, konflik kepentingan; analisis UU Tipikor bila relevan.)
 
 ---
 
-# IX. MANAJEMEN RISIKO & OPSI 4T
+# 9. MANAJEMEN RISIKO & OPSI 4T
 (Matriks risiko (ISO 31000) dan opsi penanganan: Terima, Tangani, Transfer, Tinggalkan.)
 
 ---
 
-# X. RANCANGAN DAMPAK & KONTROL PREVENTIF
+# 10. RANCANGAN DAMPAK & KONTROL PREVENTIF
 (Rekomendasi konkret agar insiden tidak terulang serta rancangan dampak ke masyarakat.)
 
 ---
 
-# XI. PELAJARAN UTAMA
+# 11. PELAJARAN UTAMA
 (Refleksi pelajaran utama + untuk dafpus --> daftar sumber yang dapat diperiksa (utamakan sumber primer).)
 
 ---
