@@ -30,26 +30,57 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 # 1. KRONOLOGI & KONTEKS
 
-Dua kecelakaan penerbangan besar yang melibatkan pesawat Boeing 737 MAX terjadi dalam kurun waktu kurang dari lima bulan, yaitu Lion Air Flight 610 pada 29 Oktober 2018 dan Ethiopian Airlines Flight 302 crash pada 10 Maret 2019. Kedua insiden ini menewaskan total 346 orang dan menimbulkan perhatian besar dari dunia internasional.
+## 1.1 Latar Belakang
 
-Penerbangan Lion Air JT610 lepas landas dari Jakarta menuju Pangkal Pinang sebelum akhirnya jatuh di perairan Laut Jawa sekitar 13 menit setelah lepas landas. Sementara itu, Ethiopian Airlines ET 302 yang berangkat dari Addis Ababa menuju Nairobi mengalami kecelakaan sekitar 6 menit setelah lepas landas di wilayah dekat Bishoftu, Ethiopia.
+Kasus Boeing 737 MAX merupakan salah satu kegagalan rekayasa perangkat lunak (software engineering failure) terbesar dalam sejarah penerbangan modern. Kasus ini menjadi perhatian dunia setelah terjadinya dua kecelakaan fatal yang melibatkan Lion Air JT610 pada 29 Oktober 2018 dan Ethiopian Airlines ET302 pada 10 Maret 2019, yang mengakibatkan total 346 korban jiwa. Peristiwa tersebut memicu investigasi mendalam terhadap aspek teknis, proses sertifikasi, serta penerapan etika dan tanggung jawab profesional dalam pengembangan sistem keselamatan penerbangan.
 
-Departemen Kehakiman Amerika Serikat pada Selasa (14/5/2024) menyatakan bahwa Boeing dapat dituntut atas kecelakaan Lion Air JT 610 dan Ethiopian Airlines ET302 yang menewaskan total 346 orang.
+Salah satu fokus utama investigasi adalah Maneuvering Characteristics Augmentation System (MCAS), yaitu perangkat lunak yang dirancang untuk membantu menjaga karakteristik aerodinamis Boeing 737 MAX akibat penggunaan mesin CFM LEAP-1B yang lebih besar dibandingkan seri sebelumnya. Sistem ini bekerja dengan menggerakkan horizontal stabilizer secara otomatis untuk menurunkan hidung pesawat ketika sensor mendeteksi sudut serang (Angle of Attack/AoA) yang terlalu tinggi.
 
-| Detail        | Lion Air JT610                       | Ethiopian ET302                  |
-|---------------|--------------------------------------|----------------------------------|
-| Tanggal       | 29 Oktober 2018                      | 10 Maret 2019                    |
-| Lokasi        | Laut Jawa, dekat Karawang, Indonesia | Dekat Addis Ababa, Ethiopia      |
-| Korban Jiwa   | 189 orang                            | 157 orang                        |
-| Penumpang     | 181 orang                            | 149 orang                        |
-| Crew          | 8 orang (2 pilot + 6 crew cabin)     | 8 orang (2 pilot + 6 crew cabin) |
-| Waktu Terbang | 13 menit setelah lepas landas        | 6 menit setelah lepas landas     |
+Namun, berdasarkan hasil investigasi KNKT, FAA, dan NTSB, desain awal MCAS hanya menggunakan satu sensor AoA sebagai sumber data tanpa validasi silang. Ketika sensor tersebut memberikan data yang salah, MCAS menganggap pesawat berada dalam kondisi stall dan secara berulang menurunkan hidung pesawat hingga pilot kehilangan kendali. Selain itu, informasi mengenai cara kerja MCAS tidak disampaikan secara memadai kepada pilot, sehingga kasus ini menjadi contoh penting mengenai pentingnya keselamatan, transparansi, etika profesi, dan manajemen risiko dalam pengembangan sistem safety-critical.
 
-### Lion Air Flight 610 crash
-Setelah lepas landas, pilot melaporkan masalah pada sistem kontrol penerbangan. Pesawat mengalami perubahan ketinggian (naik–turun) secara tidak stabil dan kesulitan dikendalikan. Data penerbangan menunjukkan hidung pesawat berulang kali terdorong ke bawah oleh sistem otomatis, hingga akhirnya pesawat jatuh ke Laut Jawa.
+## 1.2 Kronologi Peristiwa
 
-### Ethiopian Airlines Flight 302 crash
-Beberapa menit setelah lepas landas, pilot melaporkan kesulitan mengendalikan pesawat dan meminta izin kembali ke bandara. Pesawat mengalami pergerakan tidak stabil dan penurunan tajam (nose dive) sebelum akhirnya jatuh di daratan dekat Bishoftu.
+29 Oktober 2018 – Lion Air JT610
+
+- Pesawat lepas landas dari Bandara Soekarno-Hatta menuju Pangkal Pinang.
+- Beberapa menit setelah lepas landas, sensor AoA memberikan data yang salah.
+- MCAS aktif berulang kali dan terus menurunkan hidung pesawat.
+- Pilot beberapa kali menarik kendali untuk menaikkan hidung pesawat, tetapi MCAS kembali aktif.
+- Sekitar 13 menit setelah lepas landas, pesawat jatuh di Laut Jawa.
+- Seluruh 189 orang di dalam pesawat meninggal dunia.
+
+10 Maret 2019 – Ethiopian Airlines ET302
+
+- Pesawat lepas landas dari Addis Ababa menuju Nairobi.
+- Tidak lama setelah lepas landas, pilot melaporkan kesulitan mengendalikan pesawat.
+- MCAS kembali aktif akibat pembacaan sensor AoA yang tidak akurat.
+- Pilot meminta izin kembali ke bandara, tetapi kehilangan kendali atas pesawat.
+- Sekitar 6 menit setelah lepas landas, pesawat jatuh di dekat Bishoftu.
+- Seluruh 157 orang di dalam pesawat meninggal dunia.
+
+Kemudian dilanjutkan dengan:
+
+- 13 Maret 2019: seluruh armada Boeing 737 MAX ditunda atau dilarang terbang.
+- 2020: Boeing memperbarui perangkat lunak MCAS agar menggunakan dua sensor AoA dan membatasi aktivasi sistem.
+- 2024: Departemen Kehakiman Amerika Serikat kembali memproses perkara hukum terhadap Boeing terkait pelanggaran perjanjian.
+
+## 1.3 Konteks Teknis
+
+MCAS merupakan bagian dari Flight Control System yang bekerja secara otomatis ketika:
+
+- Flaps berada pada posisi naik.
+- Autopilot tidak aktif.
+- Sensor AoA mendeteksi sudut serang tinggi.
+
+Pada versi awal, MCAS memiliki beberapa kelemahan utama, yaitu:
+
+- hanya menggunakan satu sensor AoA sebagai sumber data,
+- tidak melakukan validasi silang terhadap sensor lainnya,
+- dapat aktif berulang kali apabila data sensor tetap menunjukkan kondisi stall,
+- informasi mengenai keberadaan dan cara kerja MCAS tidak dijelaskan secara memadai dalam Flight Crew Operations Manual (FCOM),
+- pilot tidak memperoleh pelatihan khusus mengenai karakteristik MCAS.
+
+Kelemahan tersebut menyebabkan sistem memiliki single point of failure, yaitu kondisi ketika kegagalan satu komponen saja dapat menyebabkan kegagalan keseluruhan sistem.
 
 ---
 
@@ -89,14 +120,17 @@ Pendekatan ini bertujuan menjaga objektivitas analisis dan menghindari penyampai
 
 # 3. PEMETAAN PEMANGKU KEPENTINGAN
 
-|No | Pemangku Kepentingan                     | Peran/Kontribusi|  Dampak yang Diterima| Relasi Kuas|
-|---|------------------------------------------|------------|---------------------------|------------|
-|1. | Eksekutif & Manajemen Boeing             | Pengambil keputusan bisnis utama; menetapkan tenggat waktu ketat demi laba.| Penurunan reputasi global, tuntutan hukum pidana/perdata, kerugian finansial miliaran dolar.| Sangat Tinggi. Memiliki kuasa finansial dan struktural untuk menekan tim engineering agar memotong prosedur keselamatan.|
-|2. | Software Engineers & Developer Boeing    | Perancang arsitektur perangkat lunak dan logika sistem MCAS.| Beban moral profesional, pemeriksaan hukum oleh Departemen Kehakiman AS.| Rendah-Sedang. Memiliki pengetahuan teknis, namun terikat secara hierarkis dan tidak berdaya melawan tekanan bisnis manajemen.|
-|3. | Federal Aviation Administration (FAA)    | Regulator yang memberikan sertifikasi kelayakan terbang (Organization Designation Authorization).| Kehilangan kredibilitas sebagai otoritas keselamatan udara global karena terbukti melakukan kelalaian pengawasan.| Tinggi (Regulatif). Seharusnya memegang kendali penuh, namun melakukan kompromi dengan mendelegasikan sebagian besar inspeksi kepada Boeing sendiri.|
-|4. | Pilot dan Maskapai (Lion Air & Ethiopian)| Pengguna akhir (End-user) teknologi sistem navigasi penerbangan.| Kehilangan nyawa kru, kerugian armada pesawat, hancurnya nama baik maskapai secara instan.| Sangat Rendah. Tidak diberikan transparansi informasi mengenai keberadaan MCAS di awal, diposisikan sebagai konsumen pasif tanpa pilihan.|
-|5. | Penumpang & Publik                       | Konsumen akhir pengguna jasa penerbangan.| Korban jiwa sebanyak 346 orang dan trauma psikologis keluarga korban.| Nol. Tidak memiliki kontrol teknis maupun manajerial dalam operasional industri.|
+Kasus Boeing 737 MAX melibatkan berbagai pihak dengan kepentingan, peran, dampak yang diterima, dan relasi kuasa.
 
+|No | Pemangku Kepentingan                     | Peran/Kontribusi|  Dampak yang Diterima| Relasi Kuasa|
+|---|------------------------------------------|------------|---------------------------|------------|
+|1. | Eksekutif & Manajemen Boeing             | Mengambil keputusan utama terkait pengembangan dan pemasaran Boeing 737 MAX, termasuk menentukan target waktu produksi.| Mengalami penurunan reputasi, menghadapi tuntutan hukum, serta mengalami kerugian finansial yang sangat besar.| Sangat Tinggi. Memiliki wewenang untuk menentukan kebijakan perusahaan dan memengaruhi keputusan tim engineering.|
+|2. | Software Engineers & Developer Boeing    | Merancang dan mengembangkan perangkat lunak MCAS agar pesawat dapat beroperasi sesuai desain.| Menghadapi tekanan profesional, pemeriksaan hukum, dan tanggung jawab moral atas sistem yang dikembangkan.| Sedang. Memiliki pengetahuan teknis, tetapi keputusan akhir tetap berada di tangan manajemen.|
+|3. | Federal Aviation Administration (FAA)    | Bertugas mengawasi dan memberikan sertifikasi kelayakan pesawat sebelum digunakan secara komersial.| Mendapat kritik karena dianggap kurang teliti dalam proses pengawasan dan sertifikasi Boeing 737 MAX.| TTinggi. Memiliki kewenangan untuk menyetujui atau menolak sertifikasi pesawat, sehingga berperan penting dalam menjamin keselamatan penerbangan.|
+|4. | Pilot dan Maskapai (Lion Air & Ethiopian)| Mengoperasikan pesawat dan menggunakan sistem MCAS dalam penerbangan sehari-hari.| Kehilangan kru dan pesawat, mengalami kerugian finansial, serta menurunnya kepercayaan masyarakat terhadap maskapai.| Rendah. Bergantung pada informasi dan pelatihan yang diberikan oleh Boeing serta regulator mengenai sistem pesawat.|
+|5. | Penumpang & Masyarakat                   | Menggunakan layanan penerbangan sebagai konsumen akhir.| Menjadi pihak yang paling dirugikan, dengan total 346 korban jiwa serta dampak psikologis bagi keluarga korban.| Sangat Rendah. Tidak memiliki kendali terhadap desain, pengembangan, maupun pengoperasian sistem pesawat.|
+
+Berdasarkan pemetaan tersebut, dapat dilihat bahwa manajemen Boeing dan FAA merupakan pihak yang memiliki pengaruh paling besar dalam pengambilan keputusan, sedangkan pilot, maskapai, penumpang, dan masyarakat merupakan pihak yang paling terdampak apabila terjadi kegagalan sistem. Hal ini menunjukkan pentingnya setiap pihak yang memiliki kewenangan untuk mengutamakan keselamatan, transparansi, dan tanggung jawab dalam pengembangan maupun pengawasan sistem safety-critical.
 
 ---
 
@@ -188,16 +222,18 @@ Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam
 
 [1] R. K. Nistanto and R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, Oct. 25, 2019. [Online]. Available: https://tekno.kompas.com/read/2019/10/25/15420657/knkt-terbitkan-laporan-lion-air-jt610-ungkap-penyebab-kecelakaan?page=all
 
-[2] A. et al., “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+[2] Federal Aviation Administration (FAA), “FAA Updates on Boeing 737 MAX,” Nov. 18, 2020. [Online]. Available: https://www.faa.gov/newsroom/faa-updates-boeing-737-max-0
 
-[3] G. S. Widagdo, S. C. K. Datu, and H. Robbani, “Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan,” Decisio Law Journal, vol. 1, no. 1, pp. 34–39, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+[3] A. et al., “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
 
-[4] J. Bentham, An Introduction to the Principles of Morals and Legislation. [Online]. Available: https://www.econlib.org/library/Bentham/bnthPML.html
+[4] G. S. Widagdo, S. C. K. Datu, and H. Robbani, “Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan,” Decisio Law Journal, vol. 1, no. 1, pp. 34–39, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
 
-[5] I. Kant, Groundwork of the Metaphysics of Morals. [Online]. Available: https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf
+[5] J. Bentham, An Introduction to the Principles of Morals and Legislation. [Online]. Available: https://www.econlib.org/library/Bentham/bnthPML.html
 
-[6] Association for Computing Machinery, “ACM Code of Ethics and Professional Conduct,” 2018. [Online]. Available: https://www.acm.org/code-of-ethics
+[6] I. Kant, Groundwork of the Metaphysics of Morals. [Online]. Available: https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf
 
-[7] Institute of Electrical and Electronics Engineers, “IEEE Code of Ethics,” 2020. [Online]. Available: https://www.ieee.org/about/corporate/governance/p7-8.html
+[7] Association for Computing Machinery, “ACM Code of Ethics and Professional Conduct,” 2018. [Online]. Available: https://www.acm.org/code-of-ethics
 
-[8] Republik Indonesia, “Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen; Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan.” [Online]. Available: https://peraturan.bpk.go.id
+[8] Institute of Electrical and Electronics Engineers, “IEEE Code of Ethics,” 2020. [Online]. Available: https://www.ieee.org/about/corporate/governance/p7-8.html
+
+[9] Republik Indonesia, “Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen; Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan.” [Online]. Available: https://peraturan.bpk.go.id
