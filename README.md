@@ -284,7 +284,7 @@ Pelajaran utama yang dapat diambil adalah bahwa keselamatan publik harus selalu 
 
 Kasus ini juga menegaskan pentingnya penerapan prinsip transparansi, integritas, dan profesionalisme. Informasi mengenai fungsi, keterbatasan, serta risiko suatu sistem harus disampaikan secara lengkap kepada seluruh pengguna agar mereka dapat mengambil keputusan yang tepat ketika menghadapi kondisi darurat. Selain itu, organisasi harus membangun budaya yang mendukung keterbukaan terhadap kritik dan laporan potensi bahaya melalui mekanisme whistleblowing, sehingga setiap permasalahan dapat diidentifikasi dan diperbaiki sebelum menimbulkan dampak yang lebih besar.
 
-Sebagai calon profesional di bidang teknologi informasi, kasus Boeing 737 MAX menjadi pengingat bahwa keberhasilan suatu sistem tidak hanya diukur dari aspek teknis, tetapi juga dari kemampuan sistem tersebut dalam melindungi keselamatan manusia serta menjaga kepercayaan masyarakat. Oleh karena itu, setiap proses pengembangan perangkat lunak harus selalu mengedepankan kualitas, etika profesi, transparansi, dan tanggung jawab sosial agar teknologi yang dihasilkan memberikan manfaat yang sebesar-besarnya bagi masyarakat.
+Sebagai mahasiswa Teknologi Informasi, kasus Boeing 737 MAX menjadi pengingat bahwa keberhasilan suatu sistem tidak hanya diukur dari aspek teknis, tetapi juga dari kemampuan sistem tersebut dalam melindungi keselamatan manusia serta menjaga kepercayaan masyarakat. Oleh karena itu, setiap proses pengembangan perangkat lunak harus selalu mengedepankan kualitas, etika profesi, transparansi, dan tanggung jawab sosial agar teknologi yang dihasilkan memberikan manfaat yang sebesar-besarnya bagi masyarakat.
 
 ---
 
