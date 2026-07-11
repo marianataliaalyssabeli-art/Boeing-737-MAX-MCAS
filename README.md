@@ -265,12 +265,26 @@ Kasus Boeing 737 MAX menunjukkan bahwa penerapan manajemen risiko yang baik sang
 ---
 
 ## 10. RANCANGAN DAMPAK & KONTROL PREVENTIF
-(Rekomendasi konkret agar insiden tidak terulang serta rancangan dampak ke masyarakat.)
+Kasus Boeing 737 MAX menunjukkan bahwa pengembangan perangkat lunak pada sistem safety-critical harus mengutamakan keselamatan publik di atas kepentingan bisnis. Oleh karena itu, diperlukan berbagai langkah preventif yang melibatkan aspek teknis, organisasi, serta regulasi agar kejadian serupa tidak terulang di masa mendatang.
+
+Dari aspek teknis, sistem Maneuvering Characteristics Augmentation System (MCAS) sebaiknya menggunakan lebih dari satu sensor Angle of Attack (AoA) sehingga data dapat divalidasi sebelum sistem mengambil keputusan. Selain itu, perangkat lunak harus memiliki mekanisme fail-safe, yaitu kemampuan sistem untuk berpindah ke kondisi aman ketika mendeteksi kesalahan sensor atau data yang tidak valid. Pengujian perangkat lunak juga harus dilakukan secara menyeluruh melalui proses testing, verification, dan validation, termasuk simulasi pada berbagai kondisi operasional maupun keadaan darurat.
+
+Dari aspek organisasi, perusahaan harus menerapkan budaya keselamatan (safety culture) yang menempatkan keselamatan pengguna sebagai prioritas utama. Dokumentasi teknis mengenai seluruh fungsi sistem harus disampaikan secara lengkap kepada maskapai dan pilot, disertai pelatihan yang memadai mengenai penggunaan sistem serta prosedur penanganan kondisi darurat. Perusahaan juga perlu menyediakan mekanisme whistleblowing yang aman sehingga setiap potensi risiko dapat dilaporkan dan ditindaklanjuti tanpa adanya tekanan terhadap pelapor.
+
+Dari aspek regulasi, otoritas penerbangan perlu memperkuat proses sertifikasi dan audit terhadap perangkat lunak yang digunakan pada sistem keselamatan penerbangan. Setiap perubahan perangkat lunak harus melalui evaluasi independen sebelum memperoleh izin operasional sehingga risiko kegagalan dapat diminimalkan.
+
+Penerapan rekomendasi tersebut diharapkan dapat meningkatkan keselamatan penerbangan, mengurangi risiko kecelakaan akibat kegagalan perangkat lunak, meningkatkan kepercayaan masyarakat terhadap industri penerbangan, serta mendorong perusahaan untuk lebih mengutamakan transparansi, tanggung jawab profesional, dan etika dalam setiap proses pengembangan teknologi.
 
 ---
 
 ## 11. PELAJARAN UTAMA
-(Refleksi pelajaran utama + untuk dafpus --> daftar sumber yang dapat diperiksa (utamakan sumber primer).)
+Kasus Boeing 737 MAX memberikan pelajaran bahwa keberhasilan suatu teknologi tidak hanya ditentukan oleh kecanggihan perangkat lunak, tetapi juga oleh penerapan etika profesi, tanggung jawab moral, dan kepatuhan terhadap standar keselamatan. Dalam pengembangan sistem safety-critical, setiap keputusan teknis harus mempertimbangkan dampaknya terhadap keselamatan manusia karena kesalahan kecil sekalipun dapat menimbulkan konsekuensi yang sangat besar.
+
+Pelajaran utama yang dapat diambil adalah bahwa keselamatan publik harus selalu menjadi prioritas utama dibandingkan kepentingan bisnis maupun persaingan industri. Pengembang perangkat lunak, engineer, manajemen perusahaan, dan regulator memiliki tanggung jawab bersama untuk memastikan bahwa setiap sistem telah dirancang, diuji, dan dioperasikan sesuai dengan standar keselamatan yang berlaku.
+
+Kasus ini juga menegaskan pentingnya penerapan prinsip transparansi, integritas, dan profesionalisme. Informasi mengenai fungsi, keterbatasan, serta risiko suatu sistem harus disampaikan secara lengkap kepada seluruh pengguna agar mereka dapat mengambil keputusan yang tepat ketika menghadapi kondisi darurat. Selain itu, organisasi harus membangun budaya yang mendukung keterbukaan terhadap kritik dan laporan potensi bahaya melalui mekanisme whistleblowing, sehingga setiap permasalahan dapat diidentifikasi dan diperbaiki sebelum menimbulkan dampak yang lebih besar.
+
+Sebagai calon profesional di bidang teknologi informasi, kasus Boeing 737 MAX menjadi pengingat bahwa keberhasilan suatu sistem tidak hanya diukur dari aspek teknis, tetapi juga dari kemampuan sistem tersebut dalam melindungi keselamatan manusia serta menjaga kepercayaan masyarakat. Oleh karena itu, setiap proses pengembangan perangkat lunak harus selalu mengedepankan kualitas, etika profesi, transparansi, dan tanggung jawab sosial agar teknologi yang dihasilkan memberikan manfaat yang sebesar-besarnya bagi masyarakat.
 
 ---
 
