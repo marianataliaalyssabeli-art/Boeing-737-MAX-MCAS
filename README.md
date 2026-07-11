@@ -200,7 +200,6 @@ Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam
 
 ## 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
 
-(Penyalahgunaan kepercayaan/kewenangan, penyembunyian, konflik kepentingan; analisis UU Tipikor bila relevan.)
 Integritas merupakan salah satu nilai utama dalam profesi teknologi informasi dan rekayasa perangkat lunak. Dalam sistem yang bersifat *safety-critical* seperti Boeing 737 MAX, setiap keputusan teknis harus mengutamakan keselamatan pengguna. Kasus Boeing 737 MAX menunjukkan bahwa lemahnya integritas organisasi dapat berdampak pada hilangnya kepercayaan publik dan meningkatnya risiko terhadap keselamatan penerbangan.
 
 ### 8.1 Penyalahgunaan Kepercayaan
