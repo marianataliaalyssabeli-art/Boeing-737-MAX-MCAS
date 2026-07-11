@@ -25,19 +25,23 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ## Pemetaan Sub-CPMK
 
-| CPMK | Sub-CPMK | Keterkaitan dengan Laporan |
-|------|-----------|----------------------------|
-| CPMK 1 | Mampu memahami konsep etika profesi, tanggung jawab profesional, serta kode etik dalam bidang teknologi informasi. | Dibahas pada analisis kode etik ACM/IEEE, IEEE Code of Ethics, dan Kode Etik Insinyur Indonesia. |
-| CPMK 2 | Mampu menganalisis kasus nyata menggunakan teori-teori etika profesi. | Dibahas pada analisis Utilitarianisme, Deontologi, Virtue Ethics, dan Etika Hak/Kontraktarian. |
-| CPMK 3 | Mampu mengidentifikasi pemangku kepentingan, konflik kepentingan, serta tanggung jawab profesional dalam suatu kasus. | Dibahas pada pemetaan stakeholder, integritas, konflik kepentingan, dan budaya whistleblowing. |
-| CPMK 4 | Mampu mengaitkan nilai-nilai Pancasila, regulasi, dan tata kelola yang baik dalam praktik profesi teknologi informasi. | Dibahas pada analisis Pancasila, regulasi Indonesia dan Amerika Serikat, serta aspek hukum. |
-| CPMK 5 | Mampu menerapkan prinsip manajemen risiko dan memberikan rekomendasi penyelesaian terhadap permasalahan etika profesi. | Dibahas pada identifikasi risiko, strategi 4T, kontrol preventif, dan pelajaran utama dari kasus Boeing 737 MAX. |
+| Sub-CPMK | Cakupan dalam Laporan |
+|-----------|------------------------|
+| **Sub-CPMK 1** | Analisis dilema etika menggunakan teori filsafat moral (Utilitarianisme, Deontologi, Virtue Ethics, dan Etika Hak) serta kode etik ACM dan IEEE. |
+| **Sub-CPMK 2** | Evaluasi kepatuhan terhadap regulasi hukum, HKI, UU ITE, UU Perlindungan Konsumen, UU Penerbangan, dan standar industri penerbangan. |
+| **Sub-CPMK 3** | Analisis dampak sosial akibat kecelakaan Boeing 737 MAX terhadap penumpang, maskapai, industri penerbangan, serta kepercayaan masyarakat. |
+| **Sub-CPMK 4** | Evaluasi risiko etis menggunakan kerangka ISO 31000 dan strategi penanganan risiko (4T: Treat, Transfer, Terminate, Tolerate). |
+| **Sub-CPMK 5** | Analisis potensi penyalahgunaan kewenangan, konflik kepentingan, integritas organisasi, dan mekanisme *whistleblowing*. |
+| **Sub-CPMK 7** | Perumusan strategi mitigasi risiko etika dan kontrol preventif untuk mencegah terulangnya kasus serupa. |
+| **Sub-CPMK 8** | Penyampaian hasil investigasi melalui video presentasi yang diunggah ke YouTube. |
+| **Sub-CPMK 9** | Refleksi mengenai pentingnya etika profesi, integritas, dan tanggung jawab sebagai calon profesional di bidang teknologi informasi. |
 
 ---
 
 ## Tautan Video Presentasi
 https://youtu.be/TP27HHaoTqw?si=OkMUYHoYTe_dgqBb
----
+
+----
 
 ## 1. KRONOLOGI & KONTEKS
 
