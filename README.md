@@ -23,7 +23,7 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ---
 
-## PEMETAAN SUB-CPMK
+## Pemetaan Sub-CPMK
 
 | CPMK | Sub-CPMK | Keterkaitan dengan Laporan |
 |------|-----------|----------------------------|
@@ -35,9 +35,8 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ---
 
-## TAUTAN VIDEO PRESENTASI
-[![Video Presentasi Kelompok 09](https://img.youtube.com/vi/TP27HHaoTqw/maxresdefault.jpg)](https://youtu.be/TP27HHaoTqw)
-
+## Tautan Video Presentasi
+https://youtu.be/TP27HHaoTqw?si=OkMUYHoYTe_dgqBb
 ---
 
 ## 1. KRONOLOGI & KONTEKS
