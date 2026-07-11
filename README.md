@@ -184,18 +184,100 @@ Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam
 ---
 
 ## 5. LENSA KELIMA - PANCASILA
-(Analisis sila 1–5 yang relevan + Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).)
+### 5.1 Analisis Sila 1–5
+
+### Sila 1 – Ketuhanan Yang Maha Esa
+Setiap profesi rekayasa membawa amanah moral untuk tidak menyalahgunakan ilmu pengetahuan demi keuntungan yang mengorbankan nyawa manusia. Keputusan merilis MCAS tanpa validasi ganda sensor dan tanpa transparansi kepada pilot bertentangan dengan nilai keluhuran budi yang menjadi dasar tanggung jawab profesional di hadapan Tuhan dan sesama manusia.
+
+### Sila 2 – Kemanusiaan yang Adil dan Beradab
+Sila ini menuntut penghormatan terhadap harkat dan martabat manusia. Hilangnya 346 nyawa akibat kegagalan sistem yang seharusnya dapat dicegah menunjukkan pengabaian terhadap nilai kemanusiaan. Keselamatan penumpang dikorbankan demi efisiensi biaya pelatihan dan kecepatan sertifikasi.
+
+### Sila 3 – Persatuan Indonesia
+Meskipun kasus ini terjadi pada ranah internasional, dampaknya dirasakan langsung oleh Indonesia melalui kecelakaan Lion Air JT610. Sila ini menegaskan pentingnya solidaritas, perlindungan negara terhadap warganya, serta peran KNKT sebagai representasi kedaulatan investigasi nasional.
+
+### Sila 4 – Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan
+Sila ini menekankan pentingnya pengambilan keputusan melalui musyawarah dengan mempertimbangkan masukan seluruh pihak, termasuk engineer yang memahami risiko teknis. Dugaan diabaikannya peringatan teknis menunjukkan lemahnya penerapan prinsip musyawarah.
+
+### Sila 5 – Keadilan Sosial bagi Seluruh Rakyat Indonesia
+Teknologi seharusnya memberikan manfaat secara adil tanpa mengorbankan keselamatan pihak lain. Dalam kasus MCAS, keuntungan ekonomi lebih banyak dinikmati perusahaan, sedangkan risiko ditanggung oleh pilot dan penumpang sehingga mencerminkan ketidakadilan sosial.
+
+---
+
+### 5.2 Nilai Kepancasilaan Universitas Pancasila
+
+| Nilai | Refleksi terhadap Kasus |
+|--------|--------------------------|
+| **Integritas** | Tim engineering dan manajemen Boeing tidak konsisten antara pengetahuan teknis mengenai kelemahan MCAS dengan informasi yang diberikan kepada regulator maupun pilot. |
+| **Kepedulian** | Keselamatan pengguna akhir kurang diprioritaskan dibanding target peluncuran produk. |
+| **Harmonis** | Hubungan antara engineer, manajemen, dan regulator tidak berjalan secara seimbang sehingga mekanisme pengawasan melemah. |
+| **Kolaboratif** | Kolaborasi Boeing dan FAA melalui skema ODA menimbulkan konflik kepentingan yang mengurangi independensi pengawasan. |
+| **Profesionalisme** | Prioritas terhadap jadwal produksi dibanding evaluasi teknis menunjukkan pelanggaran terhadap profesionalisme keinsinyuran. |
 
 ---
 
 ## 6.  KODE ETIK PROFESI
-(ACM/IEEE, PII, IAI, atau ASME sesuai bidang kasus — pasal/klausul mana yang dilanggar atau relevan.)
+
+Kasus Boeing 737 MAX MCAS berkaitan dengan kegagalan perangkat lunak pada sistem keselamatan penerbangan. Oleh karena itu, analisis menggunakan **ACM/IEEE-CS Software Engineering Code of Ethics**, **IEEE Code of Ethics**, serta **Kode Etik Insinyur Indonesia (PII)** sebagai pembanding.
+
+### 6.1 ACM/IEEE-CS Software Engineering Code of Ethics (1997)
+
+### Prinsip 1 – Public
+Software engineer wajib mengutamakan kepentingan publik. Perangkat lunak hanya boleh disetujui apabila telah memenuhi standar keamanan, lolos pengujian yang memadai, serta tidak membahayakan masyarakat. MCAS dinilai belum memenuhi prinsip tersebut karena dirilis tanpa validasi sensor yang memadai.
+
+### Prinsip 6 – Profession
+Insinyur wajib menjaga integritas profesi, menjunjung standar profesional, serta melaporkan risiko yang diketahui. Dalam kasus MCAS, tekanan bisnis diduga menghambat penyampaian informasi mengenai risiko sistem.
+
+### 6.2 IEEE Code of Ethics
+
+IEEE mewajibkan setiap anggotanya untuk mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat. Keputusan untuk tidak mengungkapkan seluruh informasi mengenai MCAS kepada regulator maupun pilot bertentangan dengan prinsip tersebut.
+
+### 6.3 Kode Etik Insinyur Indonesia (PII)
+
+Sebagai pembanding nasional, Kode Etik Insinyur Indonesia menekankan bahwa insinyur harus:
+
+- Mengutamakan keselamatan, kesehatan, dan kesejahteraan masyarakat.
+- Menjunjung keluhuran budi.
+- Menyampaikan pendapat secara objektif berdasarkan fakta.
+
+Walaupun tidak mengikat Boeing secara hukum, prinsip-prinsip tersebut menunjukkan bahwa penyembunyian informasi teknis mengenai MCAS bertentangan dengan etika profesi keinsinyuran.
+
+### Kesimpulan
+
+Baik ACM/IEEE maupun PII sama-sama menempatkan keselamatan publik sebagai prioritas utama. Prinsip tersebut dinilai tidak terpenuhi dalam pengembangan dan implementasi MCAS.
 
 ---
 
 ## 7. ANALISIS REGULASI & HUKUM
-(UU PDP, UU ITE, dan regulasi sektoral terkait; pemisahan tegas tanggung jawab hukum vs tanggung jawab moral.)
 
+### 7.1 Kerangka Hukum Amerika Serikat
+
+Regulasi utama yang berkaitan dengan kasus ini meliputi:
+
+- **14 CFR Part 25**, yaitu standar sertifikasi pesawat kategori transport.
+- **Organization Designation Authorization (ODA)**, yaitu kewenangan Boeing melakukan sebagian proses sertifikasi atas nama FAA.
+- **Deferred Prosecution Agreement (DPA) Tahun 2021**, di mana Boeing membayar denda sebesar **US$243,6 juta** dan dana kompensasi **US$500 juta** bagi keluarga korban.
+- Pada tahun 2024–2025, Department of Justice (DOJ) kembali mengevaluasi kepatuhan Boeing terhadap kesepakatan tersebut.
+
+### 7.2 Kerangka Hukum Indonesia
+
+Regulasi yang berkaitan dengan kecelakaan Lion Air JT610 meliputi:
+
+- **UU No. 1 Tahun 2009 tentang Penerbangan**, yang mengatur kelaikudaraan, tanggung jawab operator, dan investigasi oleh KNKT.
+- **UU No. 11 Tahun 2008 jo. UU No. 19 Tahun 2016 tentang ITE**, sebagai rujukan mengenai keandalan sistem elektronik.
+- **UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi**, yang tidak berkaitan langsung dengan kasus karena tidak melibatkan penyalahgunaan data pribadi.
+
+### 7.3 Tanggung Jawab Hukum dan Moral
+
+| Aspek | Tanggung Jawab Hukum | Tanggung Jawab Moral |
+|--------|----------------------|----------------------|
+| **Dasar** | Putusan pengadilan dan regulator. | Prinsip etika profesi. |
+| **Pihak Bertanggung Jawab** | Boeing dan pihak yang terbukti melanggar hukum. | Manajemen, engineer, regulator, dan seluruh pihak yang berkontribusi terhadap kegagalan. |
+| **Status** | Proses hukum masih berkembang. | Dapat dinilai tanpa menunggu putusan hukum. |
+
+### Catatan
+
+- Proses hukum Boeing masih terus berkembang sehingga beberapa aspek hukum belum berkekuatan hukum tetap.
+- Penilaian moral dapat dilakukan berdasarkan fakta yang telah terverifikasi tanpa harus menunggu putusan pengadilan.
 ---
 
 ## 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
@@ -294,22 +376,24 @@ Sebagai mahasiswa Teknologi Informasi, kasus Boeing 737 MAX menjadi pengingat ba
 
 [2] Federal Aviation Administration (FAA), “FAA Updates on Boeing 737 MAX,” Nov. 18, 2020. [Online]. Available: https://www.faa.gov/newsroom/faa-updates-boeing-737-max-0
 
-[3] A. et al., “Analisis Kasus Kecelakaan Lion Air JT610: Tinjauan Pidana dan Tanggung Jawab Korporasi dalam Keselamatan Penerbangan,” ResearchGate, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+[3] G. S. Widagdo, S. C. K. Datu, and H. Robbani, “Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan,” Decisio Law Journal, vol. 1, no. 1, pp. 34–39, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
 
-[4] G. S. Widagdo, S. C. K. Datu, and H. Robbani, “Analisis kasus kecelakaan Lion Air JT610: Tinjauan pidana dan tanggung jawab korporasi dalam keselamatan penerbangan,” Decisio Law Journal, vol. 1, no. 1, pp. 34–39, 2024. [Online]. Available: https://www.researchgate.net/publication/384609060
+[4] J. Bentham, An Introduction to the Principles of Morals and Legislation. [Online]. Available: https://www.econlib.org/library/Bentham/bnthPML.html
 
-[5] J. Bentham, An Introduction to the Principles of Morals and Legislation. [Online]. Available: https://www.econlib.org/library/Bentham/bnthPML.html
+[5] I. Kant, Groundwork of the Metaphysics of Morals. [Online]. Available: https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf
 
-[6] I. Kant, Groundwork of the Metaphysics of Morals. [Online]. Available: https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf
+[6] Association for Computing Machinery, “ACM Code of Ethics and Professional Conduct,” 2018. [Online]. Available: https://www.acm.org/code-of-ethics
 
-[7] Association for Computing Machinery, “ACM Code of Ethics and Professional Conduct,” 2018. [Online]. Available: https://www.acm.org/code-of-ethics
+[7] Institute of Electrical and Electronics Engineers, “IEEE Code of Ethics,” 2020. [Online]. Available: https://www.ieee.org/about/corporate/governance/p7-8.html
 
-[8] Institute of Electrical and Electronics Engineers, “IEEE Code of Ethics,” 2020. [Online]. Available: https://www.ieee.org/about/corporate/governance/p7-8.html
+[8] Republik Indonesia, “Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen; Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan.” [Online]. Available: https://peraturan.bpk.go.id
 
-[9] Republik Indonesia, “Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik; Undang-Undang Nomor 8 Tahun 1999 tentang Perlindungan Konsumen; Undang-Undang Nomor 1 Tahun 2009 tentang Penerbangan.” [Online]. Available: https://peraturan.bpk.go.id
+[9] International Organization for Standardization, *ISO 31000:2018 Risk Management — Guidelines*. Geneva, Switzerland: ISO, 2018. [Online]. Available: https://www.iso.org/obp/ui/en/#iso:std:iso:31000:ed-2:v1:en
 
-[10] International Organization for Standardization, *ISO 31000:2018 Risk Management — Guidelines*. Geneva, Switzerland: ISO, 2018. [Online]. Available: https://www.iso.org/obp/ui/en/#iso:std:iso:31000:ed-2:v1:en
+[10] Komite Nasional Keselamatan Transportasi, *Aircraft Accident Investigation Report: Preliminary Report – PT Lion Mentari Airlines Boeing 737-8 (MAX), PK-LQP, Tanjung Karawang, West Java, Republic of Indonesia, 29 October 2018*. Jakarta, Indonesia: KNKT, 2018. [Online]. Available: https://knkt.go.id/Repo/Files/Laporan/Penerbangan/2018/PK-LQP%20Preliminary%20Report.pdf
 
-[11] Komite Nasional Keselamatan Transportasi, *Aircraft Accident Investigation Report: Preliminary Report – PT Lion Mentari Airlines Boeing 737-8 (MAX), PK-LQP, Tanjung Karawang, West Java, Republic of Indonesia, 29 October 2018*. Jakarta, Indonesia: KNKT, 2018. [Online]. Available: https://knkt.go.id/Repo/Files/Laporan/Penerbangan/2018/PK-LQP%20Preliminary%20Report.pdf
+[11] National Transportation Safety Board, *Safety Recommendation Report: Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance*. Washington, DC, USA: NTSB, Sep. 26, 2019. [Online]. Available: https://www.ntsb.gov/news/press-releases/Pages/NR20190926.aspx
 
-[12] National Transportation Safety Board, *Safety Recommendation Report: Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance*. Washington, DC, USA: NTSB, Sep. 26, 2019. [Online]. Available: https://www.ntsb.gov/news/press-releases/Pages/NR20190926.aspx
+[12] Badan Pembinaan Ideologi Pancasila (BPIP). Pendidikan Pancasila untuk Perguruan Tinggi. Jakarta: BPIP. Available: https://bpip.go.id
+
+[13] Persatuan Insinyur Indonesia (PII). Kode Etik Insinyur Indonesia (KEI). Available: https://pii.or.id
