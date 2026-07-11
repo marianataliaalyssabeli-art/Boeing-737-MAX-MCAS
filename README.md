@@ -28,9 +28,9 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ---
 
-# 1. KRONOLOGI & KONTEKS
+## 1. KRONOLOGI & KONTEKS
 
-## 1.1 Latar Belakang
+### 1.1 Latar Belakang
 
 Kasus Boeing 737 MAX merupakan salah satu kegagalan rekayasa perangkat lunak (software engineering failure) terbesar dalam sejarah penerbangan modern. Kasus ini menjadi perhatian dunia setelah terjadinya dua kecelakaan fatal yang melibatkan Lion Air JT610 pada 29 Oktober 2018 dan Ethiopian Airlines ET302 pada 10 Maret 2019, yang mengakibatkan total 346 korban jiwa. Peristiwa tersebut memicu investigasi mendalam terhadap aspek teknis, proses sertifikasi, serta penerapan etika dan tanggung jawab profesional dalam pengembangan sistem keselamatan penerbangan.
 
@@ -38,7 +38,7 @@ Salah satu fokus utama investigasi adalah Maneuvering Characteristics Augmentati
 
 Namun, berdasarkan hasil investigasi KNKT, FAA, dan NTSB, desain awal MCAS hanya menggunakan satu sensor AoA sebagai sumber data tanpa validasi silang. Ketika sensor tersebut memberikan data yang salah, MCAS menganggap pesawat berada dalam kondisi stall dan secara berulang menurunkan hidung pesawat hingga pilot kehilangan kendali. Selain itu, informasi mengenai cara kerja MCAS tidak disampaikan secara memadai kepada pilot, sehingga kasus ini menjadi contoh penting mengenai pentingnya keselamatan, transparansi, etika profesi, dan manajemen risiko dalam pengembangan sistem safety-critical.
 
-## 1.2 Kronologi Peristiwa
+### 1.2 Kronologi Peristiwa
 
 29 Oktober 2018 – Lion Air JT610
 
@@ -64,7 +64,7 @@ Kemudian dilanjutkan dengan:
 - 2020: Boeing memperbarui perangkat lunak MCAS agar menggunakan dua sensor AoA dan membatasi aktivasi sistem.
 - 2024: Departemen Kehakiman Amerika Serikat kembali memproses perkara hukum terhadap Boeing terkait pelanggaran perjanjian.
 
-## 1.3 Konteks Teknis
+### 1.3 Konteks Teknis
 
 MCAS merupakan bagian dari Flight Control System yang bekerja secara otomatis ketika:
 
@@ -84,11 +84,11 @@ Kelemahan tersebut menyebabkan sistem memiliki single point of failure, yaitu ko
 
 ---
 
-# 2. FAKTA KUNCI & CATATAN TRANSPARANSI
+## 2. FAKTA KUNCI & CATATAN TRANSPARANSI
 
 Dalam menganalisis suatu kasus etika profesi, penting untuk membedakan antara fakta yang telah dibuktikan melalui investigasi resmi dengan informasi yang masih berupa dugaan atau sedang diproses secara hukum.
 
-## 2.1 Fakta yang Telah Terverifikasi
+### 2.1 Fakta yang Telah Terverifikasi
 
 Berdasarkan laporan KNKT, FAA, NTSB, dan Departemen Kehakiman Amerika Serikat, fakta-fakta berikut telah terverifikasi:
 
@@ -101,7 +101,7 @@ Berdasarkan laporan KNKT, FAA, NTSB, dan Departemen Kehakiman Amerika Serikat, f
 - Informasi mengenai MCAS tidak dijelaskan secara lengkap kepada sebagian besar pilot maupun maskapai.
 - Setelah investigasi selesai, Boeing memperbarui perangkat lunak MCAS sehingga menggunakan dua sensor AoA dan membatasi aktivasi sistem.
 
-## 2.2 Informasi yang Masih Diperdebatkan
+### 2.2 Informasi yang Masih Diperdebatkan
 
 Beberapa informasi berikut masih menjadi bagian dari proses hukum atau analisis publik sehingga tidak dapat dinyatakan sebagai fakta yang telah terbukti secara final.
 
@@ -110,7 +110,7 @@ Beberapa informasi berikut masih menjadi bagian dari proses hukum atau analisis 
 - Dugaan adanya pengaruh Boeing terhadap sebagian proses evaluasi regulator.
 - Dugaan bahwa peringatan dari beberapa engineer tidak ditindaklanjuti secara memadai oleh manajemen.
 
-## 2.3 Catatan Transparansi
+### 2.3 Catatan Transparansi
 
 Dalam laporan ini, seluruh analisis etika didasarkan pada fakta yang telah dipublikasikan melalui laporan resmi KNKT, FAA, NTSB, dan dokumen Departemen Kehakiman Amerika Serikat. Sementara itu, informasi yang masih berupa dugaan tidak dijadikan dasar utama dalam penarikan kesimpulan, melainkan hanya digunakan sebagai konteks untuk memahami proses pengambilan keputusan organisasi.
 
@@ -118,7 +118,7 @@ Pendekatan ini bertujuan menjaga objektivitas analisis dan menghindari penyampai
 
 ---
 
-# 3. PEMETAAN PEMANGKU KEPENTINGAN
+## 3. PEMETAAN PEMANGKU KEPENTINGAN
 
 Kasus Boeing 737 MAX melibatkan berbagai pihak dengan kepentingan, peran, dampak yang diterima, dan relasi kuasa.
 
@@ -134,11 +134,11 @@ Berdasarkan pemetaan tersebut, dapat dilihat bahwa manajemen Boeing dan FAA meru
 
 ---
 
-# 4. ANALISIS EMPAT TEORI ETIKA
+## 4. ANALISIS EMPAT TEORI ETIKA
 
 Etika umum digunakan untuk menilai apakah suatu tindakan benar atau salah berdasarkan prinsip rasional. Berikut merupakan empat analisis teori etika:
 
-## 4.1 Utilitarianisme (Konsekuensialisme)
+### 4.1 Utilitarianisme (Konsekuensialisme)
 
 Utilitarianisme merupakan teori etika yang dikemukakan oleh Jeremy Bentham dan dikembangkan oleh John Stuart Mill, yang menyatakan bahwa suatu tindakan dianggap benar apabila menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
 
@@ -148,7 +148,7 @@ Namun, keputusan tersebut justru menghasilkan dampak yang jauh lebih besar berup
 
 Dengan demikian, apabila dilihat dari perspektif utilitarianisme, dampak negatif yang ditimbulkan jauh lebih besar dibandingkan manfaatnya. Oleh karena itu, tindakan tersebut dapat dinilai tidak etis.
 
-## 4.2 Deontologi (Etika Kewajiban)
+### 4.2 Deontologi (Etika Kewajiban)
 
 Deontologi merupakan teori etika yang dikemukakan oleh Immanuel Kant, yang menyatakan bahwa suatu tindakan dinilai benar apabila sesuai dengan kewajiban moral dan prinsip universal, tanpa bergantung pada hasil akhir.
 
@@ -161,7 +161,7 @@ Sebagai perusahaan yang mengembangkan sistem keselamatan penerbangan, Boeing mem
 
 Fakta bahwa informasi mengenai MCAS tidak disampaikan secara memadai kepada pilot menunjukkan adanya pelanggaran terhadap kewajiban moral tersebut. Oleh karena itu, dari sudut pandang deontologi, tindakan tersebut tidak dapat dibenarkan.
 
-## 4.3 Virtue Ethics (Etika Kebajikan)
+### 4.3 Virtue Ethics (Etika Kebajikan)
 
 Etika kebajikan yang dikembangkan Aristoteles menilai tindakan berdasarkan karakter moral dan kebajikan individu, seperti tanggung jawab, integritas, kejujuran, dan kehati-hatian.
 
@@ -169,7 +169,7 @@ Dalam kasus ini, keputusan yang diambil menunjukkan kurangnya sifat kehati-hatia
 
 Dengan demikian, tindakan yang dilakukan tidak mencerminkan karakter profesional yang beretika.
 
-## 4.4 Etika Hak/Kontraktarian
+### 4.4 Etika Hak/Kontraktarian
 
 Teori hak menyatakan bahwa setiap individu memiliki hak yang harus dihormati oleh pihak lain.
 
@@ -183,56 +183,57 @@ Kurangnya transparansi mengenai cara kerja MCAS mengurangi kemampuan pilot dalam
 
 ---
 
-# 5. LENSA KELIMA - PANCASILA
+## 5. LENSA KELIMA - PANCASILA
 (Analisis sila 1–5 yang relevan + Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).)
 
 ---
 
-# 6.  KODE ETIK PROFESI
+## 6.  KODE ETIK PROFESI
 (ACM/IEEE, PII, IAI, atau ASME sesuai bidang kasus — pasal/klausul mana yang dilanggar atau relevan.)
 
 ---
 
-# 7. ANALISIS REGULASI & HUKUM
+## 7. ANALISIS REGULASI & HUKUM
 (UU PDP, UU ITE, dan regulasi sektoral terkait; pemisahan tegas tanggung jawab hukum vs tanggung jawab moral.)
 
 ---
 
-# 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
+## 8. CHECKPOINT INTEGRITAS & ANTI-KORUPSI
 
 (Penyalahgunaan kepercayaan/kewenangan, penyembunyian, konflik kepentingan; analisis UU Tipikor bila relevan.)
 Integritas merupakan salah satu nilai utama dalam profesi teknologi informasi dan rekayasa perangkat lunak. Dalam sistem yang bersifat *safety-critical* seperti Boeing 737 MAX, setiap keputusan teknis harus mengutamakan keselamatan pengguna. Kasus Boeing 737 MAX menunjukkan bahwa lemahnya integritas organisasi dapat berdampak pada hilangnya kepercayaan publik dan meningkatnya risiko terhadap keselamatan penerbangan.
 
-## 8.1 Penyalahgunaan Kepercayaan
+### 8.1 Penyalahgunaan Kepercayaan
 
 Masyarakat, maskapai penerbangan, dan regulator memberikan kepercayaan kepada Boeing sebagai produsen pesawat yang mampu memenuhi standar keselamatan internasional. Namun, hasil investigasi menunjukkan bahwa sistem **Maneuvering Characteristics Augmentation System (MCAS)** masih memiliki kelemahan, seperti hanya mengandalkan satu sensor *Angle of Attack* (AoA) sebagai dasar pengambilan keputusan. Kondisi tersebut meningkatkan risiko kegagalan apabila sensor mengalami kesalahan pembacaan dan menunjukkan bahwa kepercayaan yang diberikan kepada perusahaan tidak sepenuhnya diimbangi dengan penerapan prinsip keselamatan yang optimal.
 
-## 8.2 Penyembunyian Informasi
+### 8.2 Penyembunyian Informasi
 
 Salah satu permasalahan utama dalam kasus ini adalah kurangnya transparansi mengenai sistem MCAS. Informasi mengenai fungsi, cara kerja, serta pengaruh MCAS terhadap kendali pesawat tidak dijelaskan secara lengkap kepada pilot maupun maskapai. Akibatnya, ketika MCAS aktif akibat kesalahan sensor, pilot mengalami kesulitan memahami penyebab kondisi tersebut dan mengambil tindakan yang tepat. Kurangnya transparansi ini menjadi salah satu faktor yang memperbesar risiko kecelakaan.
 
-## 8.3 Konflik Kepentingan
+### 8.3 Konflik Kepentingan
 
 Kasus Boeing 737 MAX menunjukkan adanya konflik kepentingan antara keselamatan penerbangan dan kepentingan bisnis perusahaan. Boeing berupaya mempercepat proses sertifikasi agar dapat segera bersaing dengan Airbus A320neo serta meminimalkan kebutuhan pelatihan tambahan bagi pilot. Tekanan bisnis tersebut diduga memengaruhi beberapa keputusan teknis dalam pengembangan MCAS sehingga aspek keselamatan tidak menjadi prioritas utama.
 
-## 8.4 Budaya Integritas dan Whistleblowing
+### 8.4 Budaya Integritas dan Whistleblowing
 
 Budaya organisasi yang baik seharusnya mendorong setiap engineer maupun karyawan untuk melaporkan potensi bahaya tanpa rasa takut. Dalam hasil investigasi ditemukan adanya kekhawatiran dari beberapa pihak internal mengenai desain MCAS, namun masukan tersebut tidak ditindaklanjuti secara optimal. Oleh karena itu, perusahaan perlu memiliki sistem *whistleblowing* yang efektif dengan menjamin kerahasiaan pelapor, memberikan perlindungan terhadap tindakan balasan (*retaliation*), memastikan setiap laporan ditindaklanjuti secara objektif, serta melibatkan auditor independen apabila diperlukan.
 
-## 8.5 Kaitan dengan Anti-Korupsi
+### 8.5 Kaitan dengan Anti-Korupsi
 
 Kasus Boeing 737 MAX tidak termasuk tindak pidana korupsi sebagaimana diatur dalam Undang-Undang Nomor 31 Tahun 1999 jo. Undang-Undang Nomor 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi. Namun demikian, kasus ini menunjukkan pelanggaran terhadap prinsip integritas, transparansi, akuntabilitas, dan tanggung jawab profesional dalam tata kelola perusahaan (*corporate governance*). Oleh karena itu, kasus ini lebih tepat dipandang sebagai pelanggaran etika profesi dan integritas organisasi daripada tindak pidana korupsi.
 
 ### Kesimpulan
 
 Kasus Boeing 737 MAX menunjukkan bahwa keberhasilan pengembangan sistem *safety-critical* tidak hanya bergantung pada kemampuan teknis, tetapi juga pada integritas organisasi. Transparansi, budaya keselamatan (*safety culture*), mekanisme *whistleblowing*, serta pengambilan keputusan yang mengutamakan keselamatan harus menjadi prioritas agar kejadian serupa tidak terulang.
+
 ---
 
-# 9. MANAJEMEN RISIKO & OPSI 4T
+## 9. MANAJEMEN RISIKO & OPSI 4T
 
 Manajemen risiko merupakan proses untuk mengidentifikasi, menganalisis, mengevaluasi, dan mengendalikan risiko yang dapat memengaruhi pencapaian tujuan organisasi. Pada kasus Boeing 737 MAX, kegagalan sistem MCAS menunjukkan bahwa proses manajemen risiko belum diterapkan secara optimal. Risiko yang telah diidentifikasi seharusnya dimitigasi sejak tahap perancangan agar tidak berkembang menjadi kecelakaan fatal.
 
-## 9.1 Identifikasi Risiko
+### 9.1 Identifikasi Risiko
 
 Beberapa risiko utama yang ditemukan pada sistem MCAS adalah:
 
@@ -242,7 +243,7 @@ Beberapa risiko utama yang ditemukan pada sistem MCAS adalah:
 - Potensi hilangnya kendali pesawat.
 - Risiko hukum, kerugian finansial, dan menurunnya kepercayaan publik.
 
-## 9.2 Analisis Risiko Menggunakan Strategi 4T
+### 9.2 Analisis Risiko Menggunakan Strategi 4T
 
 | Risiko | Dampak | Strategi 4T | Mitigasi |
 |--------|--------|-------------|----------|
@@ -252,7 +253,7 @@ Beberapa risiko utama yang ditemukan pada sistem MCAS adalah:
 | Gangguan teknis yang tidak berdampak langsung pada keselamatan | Rendah | **Tolerate (Terima)** | Melakukan inspeksi, pemeliharaan, dan pemantauan sistem secara berkala. |
 | Desain MCAS yang hanya menggunakan satu sensor (*single point of failure*) | Sangat Tinggi | **Terminate (Hilangkan)** | Mengganti desain dengan sistem yang memiliki redundansi sensor dan mekanisme *fail-safe*. |
 
-## 9.3 Analisis
+### 9.3 Analisis
 
 Berdasarkan hasil investigasi, penyebab utama kecelakaan Boeing 737 MAX tidak hanya berasal dari kesalahan sensor, tetapi juga karena lemahnya proses manajemen risiko. Sistem MCAS dirancang dengan ketergantungan pada satu sensor tanpa mekanisme redundansi, sementara pilot tidak memperoleh informasi dan pelatihan yang memadai. Kondisi tersebut menyebabkan risiko yang sebenarnya telah ada tidak dapat dikendalikan secara efektif.
 
@@ -264,17 +265,17 @@ Kasus Boeing 737 MAX menunjukkan bahwa penerapan manajemen risiko yang baik sang
 
 ---
 
-# 10. RANCANGAN DAMPAK & KONTROL PREVENTIF
+## 10. RANCANGAN DAMPAK & KONTROL PREVENTIF
 (Rekomendasi konkret agar insiden tidak terulang serta rancangan dampak ke masyarakat.)
 
 ---
 
-# 11. PELAJARAN UTAMA
+## 11. PELAJARAN UTAMA
 (Refleksi pelajaran utama + untuk dafpus --> daftar sumber yang dapat diperiksa (utamakan sumber primer).)
 
 ---
 
-# DAFTAR PUSTAKA
+## DAFTAR PUSTAKA
 
 [1] R. K. Nistanto and R. Wahyudi, “KNKT Terbitkan Laporan Lion Air JT610, Ungkap Penyebab Kecelakaan,” Kompas.com, Oct. 25, 2019. [Online]. Available: https://tekno.kompas.com/read/2019/10/25/15420657/knkt-terbitkan-laporan-lion-air-jt610-ungkap-penyebab-kecelakaan?page=all
 
