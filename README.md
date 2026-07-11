@@ -23,8 +23,20 @@ Dokumen ini disusun untuk memenuhi **Laporan UAS Mata Kuliah Etika Profesi (A)**
 
 ---
 
-## VIDEO PRESENTASI
-(masukkan tautan yt presentasi kelompok)
+## PEMETAAN SUB-CPMK
+
+| CPMK | Sub-CPMK | Keterkaitan dengan Laporan |
+|------|-----------|----------------------------|
+| CPMK 1 | Mampu memahami konsep etika profesi, tanggung jawab profesional, serta kode etik dalam bidang teknologi informasi. | Dibahas pada analisis kode etik ACM/IEEE, IEEE Code of Ethics, dan Kode Etik Insinyur Indonesia. |
+| CPMK 2 | Mampu menganalisis kasus nyata menggunakan teori-teori etika profesi. | Dibahas pada analisis Utilitarianisme, Deontologi, Virtue Ethics, dan Etika Hak/Kontraktarian. |
+| CPMK 3 | Mampu mengidentifikasi pemangku kepentingan, konflik kepentingan, serta tanggung jawab profesional dalam suatu kasus. | Dibahas pada pemetaan stakeholder, integritas, konflik kepentingan, dan budaya whistleblowing. |
+| CPMK 4 | Mampu mengaitkan nilai-nilai Pancasila, regulasi, dan tata kelola yang baik dalam praktik profesi teknologi informasi. | Dibahas pada analisis Pancasila, regulasi Indonesia dan Amerika Serikat, serta aspek hukum. |
+| CPMK 5 | Mampu menerapkan prinsip manajemen risiko dan memberikan rekomendasi penyelesaian terhadap permasalahan etika profesi. | Dibahas pada identifikasi risiko, strategi 4T, kontrol preventif, dan pelajaran utama dari kasus Boeing 737 MAX. |
+
+---
+
+## TAUTAN VIDEO PRESENTASI
+[![Video Presentasi Kelompok 09](https://img.youtube.com/vi/TP27HHaoTqw/maxresdefault.jpg)](https://youtu.be/TP27HHaoTqw)
 
 ---
 
